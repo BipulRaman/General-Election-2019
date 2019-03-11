@@ -1,0 +1,5452 @@
+[
+  {
+    "Id": 1,
+    "State": "Andaman and Nicobar Islands",
+    "SL": 1,
+    "Constituency": "Andaman and Nicobar Islands",
+    "MP_2014": "Bishnu Pada Ray",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 2,
+    "State": "Andhra Pradesh",
+    "SL": 1,
+    "Constituency": "Araku",
+    "MP_2014": "Kothapalli Geetha",
+    "Party_2014": "YSR Congress Party",
+    "Type": "ST",
+    "Schedule": 1
+  },
+  {
+    "Id": 3,
+    "State": "Andhra Pradesh",
+    "SL": 2,
+    "Constituency": "Srikakulam",
+    "MP_2014": "Rammohan Naidu Kinjarapu",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 4,
+    "State": "Andhra Pradesh",
+    "SL": 3,
+    "Constituency": "Vizianagaram",
+    "MP_2014": "Pusapati Ashok Gajapati Raju",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 5,
+    "State": "Andhra Pradesh",
+    "SL": 4,
+    "Constituency": "Visakhapatnam",
+    "MP_2014": "Kambhapati Hari Babu",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 6,
+    "State": "Andhra Pradesh",
+    "SL": 5,
+    "Constituency": "Anakapalli",
+    "MP_2014": "Muttamsetti Srinivasa Rao",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 7,
+    "State": "Andhra Pradesh",
+    "SL": 6,
+    "Constituency": "Kakinada",
+    "MP_2014": "Thota Narasimham",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 8,
+    "State": "Andhra Pradesh",
+    "SL": 7,
+    "Constituency": "Amalapuram",
+    "MP_2014": "Pandula Ravindra Babu",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "SC",
+    "Schedule": 1
+  },
+  {
+    "Id": 9,
+    "State": "Andhra Pradesh",
+    "SL": 8,
+    "Constituency": "Rajahmundry",
+    "MP_2014": "Murali Mohan Maganti",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 10,
+    "State": "Andhra Pradesh",
+    "SL": 9,
+    "Constituency": "Narasapuram",
+    "MP_2014": "Gokaraju Ganga Raju",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 11,
+    "State": "Andhra Pradesh",
+    "SL": 10,
+    "Constituency": "Eluru",
+    "MP_2014": "Maganti Venkateswara Rao",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 12,
+    "State": "Andhra Pradesh",
+    "SL": 11,
+    "Constituency": "Machilipatnam",
+    "MP_2014": "Konakalla Narayana Rao",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 13,
+    "State": "Andhra Pradesh",
+    "SL": 12,
+    "Constituency": "Vijayawada",
+    "MP_2014": "Kesineni Srinivas (Nani)",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 14,
+    "State": "Andhra Pradesh",
+    "SL": 13,
+    "Constituency": "Guntur",
+    "MP_2014": "Jayadev Galla",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 15,
+    "State": "Andhra Pradesh",
+    "SL": 14,
+    "Constituency": "Narasaraopet",
+    "MP_2014": "Rayapati Sambasiva Rao",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 16,
+    "State": "Andhra Pradesh",
+    "SL": 15,
+    "Constituency": "Bapatla",
+    "MP_2014": "Malyadri Sriram",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "SC",
+    "Schedule": 1
+  },
+  {
+    "Id": 17,
+    "State": "Andhra Pradesh",
+    "SL": 16,
+    "Constituency": "Ongole",
+    "MP_2014": "Y. V. Subba Reddy",
+    "Party_2014": "YSR Congress Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 18,
+    "State": "Andhra Pradesh",
+    "SL": 17,
+    "Constituency": "Nandyal",
+    "MP_2014": "S. P. Y. Reddy",
+    "Party_2014": "YSR Congress Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 19,
+    "State": "Andhra Pradesh",
+    "SL": 18,
+    "Constituency": "Kurnool",
+    "MP_2014": "Butta Renuka",
+    "Party_2014": "YSR Congress Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 20,
+    "State": "Andhra Pradesh",
+    "SL": 19,
+    "Constituency": "Anantapur",
+    "MP_2014": "J. C. Diwakar Reddy",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 21,
+    "State": "Andhra Pradesh",
+    "SL": 20,
+    "Constituency": "Hindupur",
+    "MP_2014": "Kristappa Nimmala",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 22,
+    "State": "Andhra Pradesh",
+    "SL": 21,
+    "Constituency": "Kadapa",
+    "MP_2014": "Y. S. Avinash Reddy",
+    "Party_2014": "YSR Congress Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 23,
+    "State": "Andhra Pradesh",
+    "SL": 22,
+    "Constituency": "Nellore",
+    "MP_2014": "Mekapati Rajamohan Reddy",
+    "Party_2014": "YSR Congress Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 24,
+    "State": "Andhra Pradesh",
+    "SL": 23,
+    "Constituency": "Tirupati",
+    "MP_2014": "Varaprasad Rao Velagapalli",
+    "Party_2014": "YSR Congress Party",
+    "Type": "SC",
+    "Schedule": 1
+  },
+  {
+    "Id": 25,
+    "State": "Andhra Pradesh",
+    "SL": 24,
+    "Constituency": "Rajampet",
+    "MP_2014": "P. V. Midhun Reddy",
+    "Party_2014": "YSR Congress Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 26,
+    "State": "Andhra Pradesh",
+    "SL": 25,
+    "Constituency": "Chittoor",
+    "MP_2014": "Naramalli Sivaprasad",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "SC",
+    "Schedule": 1
+  },
+  {
+    "Id": 27,
+    "State": "Arunachal Pradesh",
+    "SL": 1,
+    "Constituency": "Arunachal East",
+    "MP_2014": "Ninong Ering",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 28,
+    "State": "Arunachal Pradesh",
+    "SL": 2,
+    "Constituency": "Arunachal West",
+    "MP_2014": "Kiren Rijiju",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 29,
+    "State": "Assam",
+    "SL": 1,
+    "Constituency": "Karimganj",
+    "MP_2014": "Radheshyam Biswas",
+    "Party_2014": "All India United Democratic Front",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 30,
+    "State": "Assam",
+    "SL": 2,
+    "Constituency": "Silchar",
+    "MP_2014": "Sushmita Dev",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 31,
+    "State": "Assam",
+    "SL": 3,
+    "Constituency": "Autonomous District",
+    "MP_2014": "Biren Sing Engti",
+    "Party_2014": "Indian National Congress",
+    "Type": "ST",
+    "Schedule": 2
+  },
+  {
+    "Id": 32,
+    "State": "Assam",
+    "SL": 4,
+    "Constituency": "Dhubri",
+    "MP_2014": "Badruddin Ajmal",
+    "Party_2014": "All India United Democratic Front",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 33,
+    "State": "Assam",
+    "SL": 5,
+    "Constituency": "Kokrajhar",
+    "MP_2014": "Naba Kumar Saranyia",
+    "Party_2014": "Independent",
+    "Type": "ST",
+    "Schedule": 3
+  },
+  {
+    "Id": 34,
+    "State": "Assam",
+    "SL": 6,
+    "Constituency": "Barpeta",
+    "MP_2014": "Sirajuddin Ajmal",
+    "Party_2014": "All India United Democratic Front",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 35,
+    "State": "Assam",
+    "SL": 7,
+    "Constituency": "Gauhati",
+    "MP_2014": "Bijoya Chakravarty",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 36,
+    "State": "Assam",
+    "SL": 8,
+    "Constituency": "Mangaldoi",
+    "MP_2014": "Ramen Deka",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 37,
+    "State": "Assam",
+    "SL": 9,
+    "Constituency": "Tezpur",
+    "MP_2014": "Ram Prasad Sharma",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 38,
+    "State": "Assam",
+    "SL": 10,
+    "Constituency": "Nowgong",
+    "MP_2014": "Rajen Gohain",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 39,
+    "State": "Assam",
+    "SL": 11,
+    "Constituency": "Kaliabor",
+    "MP_2014": "Gaurav Gogoi",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 40,
+    "State": "Assam",
+    "SL": 12,
+    "Constituency": "Jorhat",
+    "MP_2014": "Kamakhya Prasad Tasa",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 41,
+    "State": "Assam",
+    "SL": 13,
+    "Constituency": "Dibrugarh",
+    "MP_2014": "Rameswar Teli",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 42,
+    "State": "Assam",
+    "SL": 14,
+    "Constituency": "Lakhimpur",
+    "MP_2014": "Pradan Baruah (Elected on 22 Nov 2016)",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 43,
+    "State": "Bihar",
+    "SL": 1,
+    "Constituency": "Valmiki Nagar",
+    "MP_2014": "Satish Chandra Dubey",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 44,
+    "State": "Bihar",
+    "SL": 2,
+    "Constituency": "Paschim Champaran",
+    "MP_2014": "Sanjay Jaiswal",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 45,
+    "State": "Bihar",
+    "SL": 3,
+    "Constituency": "Purvi Champaran",
+    "MP_2014": "Radha Mohan Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 46,
+    "State": "Bihar",
+    "SL": 4,
+    "Constituency": "Sheohar",
+    "MP_2014": "Rama Devi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 47,
+    "State": "Bihar",
+    "SL": 5,
+    "Constituency": "Sitamarhi",
+    "MP_2014": "Ram Kumar Sharma",
+    "Party_2014": "Rashtriya Lok Samta Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 48,
+    "State": "Bihar",
+    "SL": 6,
+    "Constituency": "Madhubani",
+    "MP_2014": "Hukmadeo Narayan Yadav",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 49,
+    "State": "Bihar",
+    "SL": 7,
+    "Constituency": "Jhanjharpur",
+    "MP_2014": "Virendra Kumar Choudhary",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 50,
+    "State": "Bihar",
+    "SL": 8,
+    "Constituency": "Supaul",
+    "MP_2014": "Ranjeet Ranjan",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 51,
+    "State": "Bihar",
+    "SL": 9,
+    "Constituency": "Araria",
+    "MP_2014": "Sarfaraz Alam (Elected on 14 March 2018)",
+    "Party_2014": "Rashtriya Janata Dal",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 52,
+    "State": "Bihar",
+    "SL": 10,
+    "Constituency": "Kishanganj",
+    "MP_2014": "Mohammad Asrarul Haque",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 53,
+    "State": "Bihar",
+    "SL": 11,
+    "Constituency": "Katihar",
+    "MP_2014": "Tariq Anwar",
+    "Party_2014": "Nationalist Congress Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 54,
+    "State": "Bihar",
+    "SL": 12,
+    "Constituency": "Purnia",
+    "MP_2014": "Santosh Kumar",
+    "Party_2014": "Janata Dal (United)",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 55,
+    "State": "Bihar",
+    "SL": 13,
+    "Constituency": "Madhepura",
+    "MP_2014": "Rajesh Ranjan (Pappu Yadav)",
+    "Party_2014": "Jan Adhikar Party (Loktantrik)",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 56,
+    "State": "Bihar",
+    "SL": 14,
+    "Constituency": "Darbhanga",
+    "MP_2014": "Kirti Azad",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 57,
+    "State": "Bihar",
+    "SL": 15,
+    "Constituency": "Muzaffarpur",
+    "MP_2014": "Ajay Nishad",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 58,
+    "State": "Bihar",
+    "SL": 16,
+    "Constituency": "Vaishali",
+    "MP_2014": "Rama Kishor Singh",
+    "Party_2014": "Lok Janshakti Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 59,
+    "State": "Bihar",
+    "SL": 17,
+    "Constituency": "Gopalganj",
+    "MP_2014": "Janak Ram",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 6
+  },
+  {
+    "Id": 60,
+    "State": "Bihar",
+    "SL": 18,
+    "Constituency": "Siwan",
+    "MP_2014": "Om Prakash Yadav",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 61,
+    "State": "Bihar",
+    "SL": 19,
+    "Constituency": "Maharajganj",
+    "MP_2014": "Janardan Singh Sigriwal",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 62,
+    "State": "Bihar",
+    "SL": 20,
+    "Constituency": "Saran",
+    "MP_2014": "Rajiv Pratap Rudy",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 63,
+    "State": "Bihar",
+    "SL": 21,
+    "Constituency": "Hajipur",
+    "MP_2014": "Ram Vilas Paswan",
+    "Party_2014": "Lok Janshakti Party",
+    "Type": "SC",
+    "Schedule": 5
+  },
+  {
+    "Id": 64,
+    "State": "Bihar",
+    "SL": 22,
+    "Constituency": "Ujiarpur",
+    "MP_2014": "Nityanand Rai",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 65,
+    "State": "Bihar",
+    "SL": 23,
+    "Constituency": "Samastipur",
+    "MP_2014": "Ram Chandra Paswan",
+    "Party_2014": "Lok Janshakti Party",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 66,
+    "State": "Bihar",
+    "SL": 24,
+    "Constituency": "Begusarai",
+    "MP_2014": "Bhola Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 67,
+    "State": "Bihar",
+    "SL": 25,
+    "Constituency": "Khagaria",
+    "MP_2014": "Mehboob Ali Kaiser",
+    "Party_2014": "Lok Janshakti Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 68,
+    "State": "Bihar",
+    "SL": 26,
+    "Constituency": "Bhagalpur",
+    "MP_2014": "Bulo Mandal",
+    "Party_2014": "Rashtriya Janata Dal",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 69,
+    "State": "Bihar",
+    "SL": 27,
+    "Constituency": "Banka",
+    "MP_2014": "Jay Prakash Narayan Yadav",
+    "Party_2014": "Rashtriya Janata Dal",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 70,
+    "State": "Bihar",
+    "SL": 28,
+    "Constituency": "Munger",
+    "MP_2014": "Veena Devi",
+    "Party_2014": "Lok Janshakti Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 71,
+    "State": "Bihar",
+    "SL": 29,
+    "Constituency": "Nalanda",
+    "MP_2014": "Kaushalendra Kumar",
+    "Party_2014": "Janata Dal (United)",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 72,
+    "State": "Bihar",
+    "SL": 30,
+    "Constituency": "Patna Sahib",
+    "MP_2014": "Shatrughan Sinha",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 73,
+    "State": "Bihar",
+    "SL": 31,
+    "Constituency": "Pataliputra",
+    "MP_2014": "Ram Kripal Yadav",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 74,
+    "State": "Bihar",
+    "SL": 32,
+    "Constituency": "Arrah",
+    "MP_2014": "R. K. Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 75,
+    "State": "Bihar",
+    "SL": 33,
+    "Constituency": "Buxar",
+    "MP_2014": "Ashwini Kumar Choubey",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 76,
+    "State": "Bihar",
+    "SL": 34,
+    "Constituency": "Sasaram",
+    "MP_2014": "Chhedi Paswan",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 7
+  },
+  {
+    "Id": 77,
+    "State": "Bihar",
+    "SL": 35,
+    "Constituency": "Karakat",
+    "MP_2014": "Upendra Kushwaha",
+    "Party_2014": "Rashtriya Lok Samta Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 78,
+    "State": "Bihar",
+    "SL": 36,
+    "Constituency": "Jahanabad",
+    "MP_2014": "Arun Kumar",
+    "Party_2014": "Rashtriya Lok Samta Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 79,
+    "State": "Bihar",
+    "SL": 37,
+    "Constituency": "Aurangabad",
+    "MP_2014": "Sushil Kumar Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 80,
+    "State": "Bihar",
+    "SL": 38,
+    "Constituency": "Gaya",
+    "MP_2014": "Hari Manjhi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 1
+  },
+  {
+    "Id": 81,
+    "State": "Bihar",
+    "SL": 39,
+    "Constituency": "Nawada",
+    "MP_2014": "Giriraj Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 82,
+    "State": "Bihar",
+    "SL": 40,
+    "Constituency": "Jamui",
+    "MP_2014": "Chirag Paswan",
+    "Party_2014": "Lok Janshakti Party",
+    "Type": "SC",
+    "Schedule": 1
+  },
+  {
+    "Id": 83,
+    "State": "Chandigarh",
+    "SL": 1,
+    "Constituency": "Chandigarh",
+    "MP_2014": "Kirron Kher",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 84,
+    "State": "Chhattisgarh",
+    "SL": 1,
+    "Constituency": "Surguja",
+    "MP_2014": "Kamalbhan Singh Marabi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 3
+  },
+  {
+    "Id": 85,
+    "State": "Chhattisgarh",
+    "SL": 2,
+    "Constituency": "Raigarh",
+    "MP_2014": "Vishnu Deo Sai",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 3
+  },
+  {
+    "Id": 86,
+    "State": "Chhattisgarh",
+    "SL": 3,
+    "Constituency": "Janjgir-Champa",
+    "MP_2014": "Kamla Devi Patle",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 3
+  },
+  {
+    "Id": 87,
+    "State": "Chhattisgarh",
+    "SL": 4,
+    "Constituency": "Korba",
+    "MP_2014": "Banshilal Mahto",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 88,
+    "State": "Chhattisgarh",
+    "SL": 5,
+    "Constituency": "Bilaspur",
+    "MP_2014": "Lakhan Lal Sahu",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 89,
+    "State": "Chhattisgarh",
+    "SL": 6,
+    "Constituency": "Rajnandgaon",
+    "MP_2014": "Abhishek Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 90,
+    "State": "Chhattisgarh",
+    "SL": 7,
+    "Constituency": "Durg",
+    "MP_2014": "Tamradhwaj Sahu",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 91,
+    "State": "Chhattisgarh",
+    "SL": 8,
+    "Constituency": "Raipur",
+    "MP_2014": "Ramesh Bais",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 92,
+    "State": "Chhattisgarh",
+    "SL": 9,
+    "Constituency": "Mahasamund",
+    "MP_2014": "Chandu Lal Sahu",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 93,
+    "State": "Chhattisgarh",
+    "SL": 10,
+    "Constituency": "Bastar",
+    "MP_2014": "Dinesh Kashyap",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 1
+  },
+  {
+    "Id": 94,
+    "State": "Chhattisgarh",
+    "SL": 11,
+    "Constituency": "Kanker",
+    "MP_2014": "Vikram Usendi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 2
+  },
+  {
+    "Id": 95,
+    "State": "Dadra and Nagar Haveli",
+    "SL": 1,
+    "Constituency": "Dadra and Nagar Haveli",
+    "MP_2014": "Natubhai Gomanbhai Patel",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 3
+  },
+  {
+    "Id": 96,
+    "State": "Daman and Diu",
+    "SL": 1,
+    "Constituency": "Daman and Diu",
+    "MP_2014": "Lalubhai Patel",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 97,
+    "State": "Goa",
+    "SL": 1,
+    "Constituency": "North Goa",
+    "MP_2014": "Shripad Yasso Naik",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 98,
+    "State": "Goa",
+    "SL": 2,
+    "Constituency": "South Goa",
+    "MP_2014": "Narendra Keshav Sawaikar",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 99,
+    "State": "Gujarat",
+    "SL": 1,
+    "Constituency": "Kachchh",
+    "MP_2014": "Vinod Lakhamashi Chavda",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 3
+  },
+  {
+    "Id": 100,
+    "State": "Gujarat",
+    "SL": 2,
+    "Constituency": "Banaskantha",
+    "MP_2014": "Haribhai Parthibhai Chaudhary",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 101,
+    "State": "Gujarat",
+    "SL": 3,
+    "Constituency": "Patan",
+    "MP_2014": "Liladharbhai Khodaji Vaghela",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 102,
+    "State": "Gujarat",
+    "SL": 4,
+    "Constituency": "Mahesana",
+    "MP_2014": "Jayshreeben Kanubhai Patel",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 103,
+    "State": "Gujarat",
+    "SL": 5,
+    "Constituency": "Sabarkantha",
+    "MP_2014": "Dipsinh Shankarsinh Rathod",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 104,
+    "State": "Gujarat",
+    "SL": 6,
+    "Constituency": "Gandhinagar",
+    "MP_2014": "L. K. Advani",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 105,
+    "State": "Gujarat",
+    "SL": 7,
+    "Constituency": "Ahmedabad East",
+    "MP_2014": "Paresh Rawal",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 106,
+    "State": "Gujarat",
+    "SL": 8,
+    "Constituency": "Ahmedabad West",
+    "MP_2014": "Kirit Premjibhai Solanki",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 3
+  },
+  {
+    "Id": 107,
+    "State": "Gujarat",
+    "SL": 9,
+    "Constituency": "Surendranagar",
+    "MP_2014": "Devjibhai Govindbhai Fatepara",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 108,
+    "State": "Gujarat",
+    "SL": 10,
+    "Constituency": "Rajkot",
+    "MP_2014": "Mohan Kundariya",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 109,
+    "State": "Gujarat",
+    "SL": 11,
+    "Constituency": "Porbandar",
+    "MP_2014": "Vitthalbhai Hansrajbhai Radadiya",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 110,
+    "State": "Gujarat",
+    "SL": 12,
+    "Constituency": "Jamnagar",
+    "MP_2014": "Poonamben Madam",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 111,
+    "State": "Gujarat",
+    "SL": 13,
+    "Constituency": "Junagadh",
+    "MP_2014": "Rajesh Chudasama",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 112,
+    "State": "Gujarat",
+    "SL": 14,
+    "Constituency": "Amreli",
+    "MP_2014": "Naranbhai Kachhadia",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 113,
+    "State": "Gujarat",
+    "SL": 15,
+    "Constituency": "Bhavnagar",
+    "MP_2014": "Bhartiben Shiyal",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 114,
+    "State": "Gujarat",
+    "SL": 16,
+    "Constituency": "Anand",
+    "MP_2014": "Dilip Patel",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 115,
+    "State": "Gujarat",
+    "SL": 17,
+    "Constituency": "Kheda",
+    "MP_2014": "Devusinh Jesingbhai Chauhan",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 116,
+    "State": "Gujarat",
+    "SL": 18,
+    "Constituency": "Panchmahal",
+    "MP_2014": "Prabhatsinh Pratapsinh Chauhan",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 117,
+    "State": "Gujarat",
+    "SL": 19,
+    "Constituency": "Dahod",
+    "MP_2014": "Jasvantsinh Sumanbhai Bhabhor",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 3
+  },
+  {
+    "Id": 118,
+    "State": "Gujarat",
+    "SL": 20,
+    "Constituency": "Vadodara",
+    "MP_2014": "Ranjanben Bhatt (Elected on 16 Sep 2014)",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 119,
+    "State": "Gujarat",
+    "SL": 21,
+    "Constituency": "Chhota Udaipur",
+    "MP_2014": "Ramsinh Rathwa",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 3
+  },
+  {
+    "Id": 120,
+    "State": "Gujarat",
+    "SL": 22,
+    "Constituency": "Bharuch",
+    "MP_2014": "Mansukhbhai Vasava",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 121,
+    "State": "Gujarat",
+    "SL": 23,
+    "Constituency": "Bardoli",
+    "MP_2014": "Vasava Parbhubhai Nagarbhai",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 3
+  },
+  {
+    "Id": 122,
+    "State": "Gujarat",
+    "SL": 24,
+    "Constituency": "Surat",
+    "MP_2014": "Darshana Vikram Jardosh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 123,
+    "State": "Gujarat",
+    "SL": 25,
+    "Constituency": "Navsari",
+    "MP_2014": "Chandrakant Raghunath Patil",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 124,
+    "State": "Gujarat",
+    "SL": 26,
+    "Constituency": "Valsad",
+    "MP_2014": "K. C. Patel",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 3
+  },
+  {
+    "Id": 125,
+    "State": "Haryana",
+    "SL": 1,
+    "Constituency": "Ambala",
+    "MP_2014": "Rattan Lal Kataria",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 6
+  },
+  {
+    "Id": 126,
+    "State": "Haryana",
+    "SL": 2,
+    "Constituency": "Kurukshetra",
+    "MP_2014": "Raj Kumar Saini",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 127,
+    "State": "Haryana",
+    "SL": 3,
+    "Constituency": "Sirsa",
+    "MP_2014": "Charanjeet Singh Rori",
+    "Party_2014": "Indian National Lok Dal",
+    "Type": "SC",
+    "Schedule": 6
+  },
+  {
+    "Id": 128,
+    "State": "Haryana",
+    "SL": 4,
+    "Constituency": "Hisar",
+    "MP_2014": "Dushyant Chautala",
+    "Party_2014": "Indian National Lok Dal",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 129,
+    "State": "Haryana",
+    "SL": 5,
+    "Constituency": "Karnal",
+    "MP_2014": "Ashwini Kumar",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 130,
+    "State": "Haryana",
+    "SL": 6,
+    "Constituency": "Sonipat",
+    "MP_2014": "Ramesh Chander",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 131,
+    "State": "Haryana",
+    "SL": 7,
+    "Constituency": "Rohtak",
+    "MP_2014": "Deepender Singh Hooda",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 132,
+    "State": "Haryana",
+    "SL": 8,
+    "Constituency": "Bhiwani-Mahendragarh",
+    "MP_2014": "Dharambir Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 133,
+    "State": "Haryana",
+    "SL": 9,
+    "Constituency": "Gurgaon",
+    "MP_2014": "Inderjit Singh Rao",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 134,
+    "State": "Haryana",
+    "SL": 10,
+    "Constituency": "Faridabad",
+    "MP_2014": "Krishan Pal",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 135,
+    "State": "Himachal Pradesh",
+    "SL": 1,
+    "Constituency": "Mandi",
+    "MP_2014": "Ram Swaroop Sharma",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 136,
+    "State": "Himachal Pradesh",
+    "SL": 2,
+    "Constituency": "Kangra",
+    "MP_2014": "Shanta Kumar",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 137,
+    "State": "Himachal Pradesh",
+    "SL": 3,
+    "Constituency": "Hamirpur",
+    "MP_2014": "Anurag Singh Thakur",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 138,
+    "State": "Himachal Pradesh",
+    "SL": 4,
+    "Constituency": "Shimla",
+    "MP_2014": "Virender Kashyap",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 7
+  },
+  {
+    "Id": 139,
+    "State": "Jammu & Kashmir",
+    "SL": 1,
+    "Constituency": "Baramulla",
+    "MP_2014": "Muzaffar Hussain Baig",
+    "Party_2014": "Jammu and Kashmir Peoples Democratic Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 140,
+    "State": "Jammu & Kashmir",
+    "SL": 2,
+    "Constituency": "Srinagar",
+    "MP_2014": "Farooq Abdullah (Elected on 15 April 2017)",
+    "Party_2014": "Jammu & Kashmir National Conference",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 141,
+    "State": "Jammu & Kashmir",
+    "SL": 3,
+    "Constituency": "Anantnag",
+    "MP_2014": "Vacant",
+    "Party_2014": "Vacant",
+    "Type": "GEN",
+    "Schedule": "3;4;5"
+  },
+  {
+    "Id": 142,
+    "State": "Jammu & Kashmir",
+    "SL": 4,
+    "Constituency": "Ladakh",
+    "MP_2014": "Thupstan Chhewang",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 143,
+    "State": "Jammu & Kashmir",
+    "SL": 5,
+    "Constituency": "Udhampur",
+    "MP_2014": "Jitendra Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 144,
+    "State": "Jammu & Kashmir",
+    "SL": 6,
+    "Constituency": "Jammu",
+    "MP_2014": "Jugal Kishore",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 145,
+    "State": "Jharkhand",
+    "SL": 1,
+    "Constituency": "Rajmahal",
+    "MP_2014": "Vijay Kumar Hansdak",
+    "Party_2014": "Jharkhand Mukti Morcha",
+    "Type": "ST",
+    "Schedule": 7
+  },
+  {
+    "Id": 146,
+    "State": "Jharkhand",
+    "SL": 2,
+    "Constituency": "Dumka",
+    "MP_2014": "Shibu Soren",
+    "Party_2014": "Jharkhand Mukti Morcha",
+    "Type": "ST",
+    "Schedule": 7
+  },
+  {
+    "Id": 147,
+    "State": "Jharkhand",
+    "SL": 3,
+    "Constituency": "Godda",
+    "MP_2014": "Nishikant Dubey",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 148,
+    "State": "Jharkhand",
+    "SL": 4,
+    "Constituency": "Chatra",
+    "MP_2014": "Sunil Kumar Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 149,
+    "State": "Jharkhand",
+    "SL": 5,
+    "Constituency": "Kodarma",
+    "MP_2014": "Ravindra Kumar Ray",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 150,
+    "State": "Jharkhand",
+    "SL": 6,
+    "Constituency": "Giridih",
+    "MP_2014": "Ravindra Kumar Pandey",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 151,
+    "State": "Jharkhand",
+    "SL": 7,
+    "Constituency": "Dhanbad",
+    "MP_2014": "Pashupati Nath Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 152,
+    "State": "Jharkhand",
+    "SL": 8,
+    "Constituency": "Ranchi",
+    "MP_2014": "Ram Tahal Choudhary",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 153,
+    "State": "Jharkhand",
+    "SL": 9,
+    "Constituency": "Jamshedpur",
+    "MP_2014": "Bidyut Baran Mahato",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 154,
+    "State": "Jharkhand",
+    "SL": 10,
+    "Constituency": "Singhbhum",
+    "MP_2014": "Laxman Giluwa",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 6
+  },
+  {
+    "Id": 155,
+    "State": "Jharkhand",
+    "SL": 11,
+    "Constituency": "Khunti",
+    "MP_2014": "Karia Munda",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 5
+  },
+  {
+    "Id": 156,
+    "State": "Jharkhand",
+    "SL": 12,
+    "Constituency": "Lohardaga",
+    "MP_2014": "Sudarshan Bhagat",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 4
+  },
+  {
+    "Id": 157,
+    "State": "Jharkhand",
+    "SL": 13,
+    "Constituency": "Palamau",
+    "MP_2014": "Vishnu Dayal Ram",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 158,
+    "State": "Jharkhand",
+    "SL": 14,
+    "Constituency": "Hazaribagh",
+    "MP_2014": "Jayant Sinha",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 159,
+    "State": "Karnataka",
+    "SL": 1,
+    "Constituency": "Chikkodi",
+    "MP_2014": "Prakash Babanna Hukkeri",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 160,
+    "State": "Karnataka",
+    "SL": 2,
+    "Constituency": "Belgaum",
+    "MP_2014": "Suresh Angadi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 161,
+    "State": "Karnataka",
+    "SL": 3,
+    "Constituency": "Bagalkot",
+    "MP_2014": "Gaddigoudar P. C.",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 162,
+    "State": "Karnataka",
+    "SL": 4,
+    "Constituency": "Bijapur",
+    "MP_2014": "Ramesh Jigajinagi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 3
+  },
+  {
+    "Id": 163,
+    "State": "Karnataka",
+    "SL": 5,
+    "Constituency": "Gulbarga",
+    "MP_2014": "Mallikarjun Kharge",
+    "Party_2014": "Indian National Congress",
+    "Type": "SC",
+    "Schedule": 3
+  },
+  {
+    "Id": 164,
+    "State": "Karnataka",
+    "SL": 6,
+    "Constituency": "Raichur",
+    "MP_2014": "B. V. Nayak",
+    "Party_2014": "Indian National Congress",
+    "Type": "ST",
+    "Schedule": 3
+  },
+  {
+    "Id": 165,
+    "State": "Karnataka",
+    "SL": 7,
+    "Constituency": "Bidar",
+    "MP_2014": "Bhagwanth Khuba",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 166,
+    "State": "Karnataka",
+    "SL": 8,
+    "Constituency": "Koppal",
+    "MP_2014": "Karadi Sanganna Amarappa",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 167,
+    "State": "Karnataka",
+    "SL": 9,
+    "Constituency": "Bellary",
+    "MP_2014": "Vacant",
+    "Party_2014": "Vacant",
+    "Type": "ST",
+    "Schedule": 3
+  },
+  {
+    "Id": 168,
+    "State": "Karnataka",
+    "SL": 10,
+    "Constituency": "Haveri",
+    "MP_2014": "Shivkumar Chanabasappa Udasi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 169,
+    "State": "Karnataka",
+    "SL": 11,
+    "Constituency": "Dharwad",
+    "MP_2014": "Pralhad Joshi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 170,
+    "State": "Karnataka",
+    "SL": 12,
+    "Constituency": "Uttara Kannada",
+    "MP_2014": "Ananthkumar Hegde",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 171,
+    "State": "Karnataka",
+    "SL": 13,
+    "Constituency": "Davanagere",
+    "MP_2014": "G.M. Siddeswara",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 172,
+    "State": "Karnataka",
+    "SL": 14,
+    "Constituency": "Shimoga",
+    "MP_2014": "Vacant",
+    "Party_2014": "Vacant",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 173,
+    "State": "Karnataka",
+    "SL": 15,
+    "Constituency": "Udupi Chikmagalur",
+    "MP_2014": "Shobha Karandlaje",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 174,
+    "State": "Karnataka",
+    "SL": 16,
+    "Constituency": "Hassan",
+    "MP_2014": "H. D. Deve Gowda",
+    "Party_2014": "Janata Dal (Secular)",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 175,
+    "State": "Karnataka",
+    "SL": 17,
+    "Constituency": "Dakshina Kannada",
+    "MP_2014": "Nalin Kumar Kateel",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 176,
+    "State": "Karnataka",
+    "SL": 18,
+    "Constituency": "Chitradurga",
+    "MP_2014": "B. N. Chandrappa",
+    "Party_2014": "Indian National Congress",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 177,
+    "State": "Karnataka",
+    "SL": 19,
+    "Constituency": "Tumkur",
+    "MP_2014": "Muddahanumegowda",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 178,
+    "State": "Karnataka",
+    "SL": 20,
+    "Constituency": "Mandya",
+    "MP_2014": "Vacant",
+    "Party_2014": "Vacant",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 179,
+    "State": "Karnataka",
+    "SL": 21,
+    "Constituency": "Mysore",
+    "MP_2014": "Pratap Simha",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 180,
+    "State": "Karnataka",
+    "SL": 22,
+    "Constituency": "Chamarajanagar",
+    "MP_2014": "R. Dhruvanarayana",
+    "Party_2014": "Indian National Congress",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 181,
+    "State": "Karnataka",
+    "SL": 23,
+    "Constituency": "Bangalore Rural",
+    "MP_2014": "D. K. Suresh",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 182,
+    "State": "Karnataka",
+    "SL": 24,
+    "Constituency": "Bangalore North",
+    "MP_2014": "D. V. Sadananda Gowda",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 183,
+    "State": "Karnataka",
+    "SL": 25,
+    "Constituency": "Bangalore Central",
+    "MP_2014": "P. C. Mohan",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 184,
+    "State": "Karnataka",
+    "SL": 26,
+    "Constituency": "Bangalore South",
+    "MP_2014": "Ananth Kumar",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 185,
+    "State": "Karnataka",
+    "SL": 27,
+    "Constituency": "Chikballapur",
+    "MP_2014": "M. Veerappa Moily",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 186,
+    "State": "Karnataka",
+    "SL": 28,
+    "Constituency": "Kolar",
+    "MP_2014": "K. H. Muniyappa",
+    "Party_2014": "Indian National Congress",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 187,
+    "State": "Kerala",
+    "SL": 1,
+    "Constituency": "Kasaragod",
+    "MP_2014": "P. Karunakaran",
+    "Party_2014": "Communist Party of India (Marxist)",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 188,
+    "State": "Kerala",
+    "SL": 2,
+    "Constituency": "Kannur",
+    "MP_2014": "P. K. Sreemathy",
+    "Party_2014": "Communist Party of India (Marxist)",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 189,
+    "State": "Kerala",
+    "SL": 3,
+    "Constituency": "Vatakara",
+    "MP_2014": "Mullappally Ramachandran",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 190,
+    "State": "Kerala",
+    "SL": 4,
+    "Constituency": "Wayanad",
+    "MP_2014": "M. I. Shanavas",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 191,
+    "State": "Kerala",
+    "SL": 5,
+    "Constituency": "Kozhikode",
+    "MP_2014": "M. K. Raghavan",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 192,
+    "State": "Kerala",
+    "SL": 6,
+    "Constituency": "Malappuram",
+    "MP_2014": "PK Kunhalikutty (Elected on 17 April 2017)",
+    "Party_2014": "Indian Union Muslim League",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 193,
+    "State": "Kerala",
+    "SL": 7,
+    "Constituency": "Ponnani",
+    "MP_2014": "E. T. Muhammed Basheer",
+    "Party_2014": "Indian Union Muslim League",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 194,
+    "State": "Kerala",
+    "SL": 8,
+    "Constituency": "Palakkad",
+    "MP_2014": "M. B. Rajesh",
+    "Party_2014": "Communist Party of India (Marxist)",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 195,
+    "State": "Kerala",
+    "SL": 9,
+    "Constituency": "Alathur",
+    "MP_2014": "P. K. Biju",
+    "Party_2014": "Communist Party of India (Marxist)",
+    "Type": "SC",
+    "Schedule": 3
+  },
+  {
+    "Id": 196,
+    "State": "Kerala",
+    "SL": 10,
+    "Constituency": "Thrissur",
+    "MP_2014": "C. N. Jayadevan",
+    "Party_2014": "Communist Party of India",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 197,
+    "State": "Kerala",
+    "SL": 11,
+    "Constituency": "Chalakudy",
+    "MP_2014": "Innocent Vareed Thekkethala",
+    "Party_2014": "Independent",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 198,
+    "State": "Kerala",
+    "SL": 12,
+    "Constituency": "Ernakulam",
+    "MP_2014": "K. V. Thomas",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 199,
+    "State": "Kerala",
+    "SL": 13,
+    "Constituency": "Idukki",
+    "MP_2014": "Joice George",
+    "Party_2014": "Independent",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 200,
+    "State": "Kerala",
+    "SL": 14,
+    "Constituency": "Kottayam",
+    "MP_2014": "Jose K. Mani",
+    "Party_2014": "Kerala Congress (M)",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 201,
+    "State": "Kerala",
+    "SL": 15,
+    "Constituency": "Alappuzha",
+    "MP_2014": "K. C Venugopal",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 202,
+    "State": "Kerala",
+    "SL": 16,
+    "Constituency": "Mavelikkara",
+    "MP_2014": "Kodikkunnil Suresh",
+    "Party_2014": "Indian National Congress",
+    "Type": "SC",
+    "Schedule": 3
+  },
+  {
+    "Id": 203,
+    "State": "Kerala",
+    "SL": 17,
+    "Constituency": "Pathanamthitta",
+    "MP_2014": "Anto Antony",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 204,
+    "State": "Kerala",
+    "SL": 18,
+    "Constituency": "Kollam",
+    "MP_2014": "N. K. Premachandran",
+    "Party_2014": "Revolutionary Socialist Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 205,
+    "State": "Kerala",
+    "SL": 19,
+    "Constituency": "Attingal",
+    "MP_2014": "A Sampath",
+    "Party_2014": "Communist Party of India (Marxist)",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 206,
+    "State": "Kerala",
+    "SL": 20,
+    "Constituency": "Thiruvananthapuram",
+    "MP_2014": "Shashi Tharoor",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 207,
+    "State": "Lakshadweep",
+    "SL": 1,
+    "Constituency": "Lakshadweep",
+    "MP_2014": "Mohammed Faizal P. P.",
+    "Party_2014": "Nationalist Congress Party",
+    "Type": "ST",
+    "Schedule": 1
+  },
+  {
+    "Id": 208,
+    "State": "Madhya Pradesh",
+    "SL": 1,
+    "Constituency": "Morena",
+    "MP_2014": "Anoop Mishra",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 209,
+    "State": "Madhya Pradesh",
+    "SL": 2,
+    "Constituency": "Bhind",
+    "MP_2014": "Bhagirath Prasad",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 6
+  },
+  {
+    "Id": 210,
+    "State": "Madhya Pradesh",
+    "SL": 3,
+    "Constituency": "Gwalior",
+    "MP_2014": "Narendra Singh Tomar",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 211,
+    "State": "Madhya Pradesh",
+    "SL": 4,
+    "Constituency": "Guna",
+    "MP_2014": "Jyotiraditya Madhavrao Scindia",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 212,
+    "State": "Madhya Pradesh",
+    "SL": 5,
+    "Constituency": "Sagar",
+    "MP_2014": "Laxmi Narayan Yadav",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 213,
+    "State": "Madhya Pradesh",
+    "SL": 6,
+    "Constituency": "Tikamgarh",
+    "MP_2014": "Virendra Kumar",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 5
+  },
+  {
+    "Id": 214,
+    "State": "Madhya Pradesh",
+    "SL": 7,
+    "Constituency": "Damoh",
+    "MP_2014": "Prahlad Singh Patel",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 215,
+    "State": "Madhya Pradesh",
+    "SL": 8,
+    "Constituency": "Khajuraho",
+    "MP_2014": "Nagendra Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 216,
+    "State": "Madhya Pradesh",
+    "SL": 9,
+    "Constituency": "Satna",
+    "MP_2014": "Ganesh Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 217,
+    "State": "Madhya Pradesh",
+    "SL": 10,
+    "Constituency": "Rewa",
+    "MP_2014": "Janardan Mishra",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 218,
+    "State": "Madhya Pradesh",
+    "SL": 11,
+    "Constituency": "Sidhi",
+    "MP_2014": "Riti Pathak",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 219,
+    "State": "Madhya Pradesh",
+    "SL": 12,
+    "Constituency": "Shahdol",
+    "MP_2014": "Gyan Singh (Elected on 22 Nov 2016)",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 4
+  },
+  {
+    "Id": 220,
+    "State": "Madhya Pradesh",
+    "SL": 13,
+    "Constituency": "Jabalpur",
+    "MP_2014": "Rakesh Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 221,
+    "State": "Madhya Pradesh",
+    "SL": 14,
+    "Constituency": "Mandla",
+    "MP_2014": "Faggan Singh Kulaste",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 4
+  },
+  {
+    "Id": 222,
+    "State": "Madhya Pradesh",
+    "SL": 15,
+    "Constituency": "Balaghat",
+    "MP_2014": "Bodh Singh Bhagat",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 223,
+    "State": "Madhya Pradesh",
+    "SL": 16,
+    "Constituency": "Chhindwara",
+    "MP_2014": "Kamal Nath",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 224,
+    "State": "Madhya Pradesh",
+    "SL": 17,
+    "Constituency": "Hoshangabad",
+    "MP_2014": "Uday Pratap Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 225,
+    "State": "Madhya Pradesh",
+    "SL": 18,
+    "Constituency": "Vidisha",
+    "MP_2014": "Sushma Swaraj",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 226,
+    "State": "Madhya Pradesh",
+    "SL": 19,
+    "Constituency": "Bhopal",
+    "MP_2014": "Alok Sanjar",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 227,
+    "State": "Madhya Pradesh",
+    "SL": 20,
+    "Constituency": "Rajgarh",
+    "MP_2014": "Rodmal Nagar",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 228,
+    "State": "Madhya Pradesh",
+    "SL": 21,
+    "Constituency": "Dewas",
+    "MP_2014": "Manohar Untwal",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 7
+  },
+  {
+    "Id": 229,
+    "State": "Madhya Pradesh",
+    "SL": 22,
+    "Constituency": "Ujjain",
+    "MP_2014": "Chintamani Malviya",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 7
+  },
+  {
+    "Id": 230,
+    "State": "Madhya Pradesh",
+    "SL": 23,
+    "Constituency": "Mandsour",
+    "MP_2014": "Sudhir Gupta",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 231,
+    "State": "Madhya Pradesh",
+    "SL": 24,
+    "Constituency": "Ratlam",
+    "MP_2014": "Kantilal Bhuria (Elected on 24 Nov 2015)",
+    "Party_2014": "Indian National Congress",
+    "Type": "ST",
+    "Schedule": 7
+  },
+  {
+    "Id": 232,
+    "State": "Madhya Pradesh",
+    "SL": 25,
+    "Constituency": "Dhar",
+    "MP_2014": "Savitri Thakur",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 7
+  },
+  {
+    "Id": 233,
+    "State": "Madhya Pradesh",
+    "SL": 26,
+    "Constituency": "Indore",
+    "MP_2014": "Sumitra Mahajan",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 234,
+    "State": "Madhya Pradesh",
+    "SL": 27,
+    "Constituency": "Khargone",
+    "MP_2014": "Subhash Patel",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 7
+  },
+  {
+    "Id": 235,
+    "State": "Madhya Pradesh",
+    "SL": 28,
+    "Constituency": "Khandwa",
+    "MP_2014": "Nandkumar Singh Chauhan",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 236,
+    "State": "Madhya Pradesh",
+    "SL": 29,
+    "Constituency": "Betul",
+    "MP_2014": "Jyoti Dhurve",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 5
+  },
+  {
+    "Id": 237,
+    "State": "Maharashtra",
+    "SL": 1,
+    "Constituency": "Nandurbar",
+    "MP_2014": "Heena Vijaykumar Gavit",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 4
+  },
+  {
+    "Id": 238,
+    "State": "Maharashtra",
+    "SL": 2,
+    "Constituency": "Dhule",
+    "MP_2014": "Subhash Ramrao Bhamre",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 239,
+    "State": "Maharashtra",
+    "SL": 3,
+    "Constituency": "Jalgaon",
+    "MP_2014": "A T Nana Patil",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 240,
+    "State": "Maharashtra",
+    "SL": 4,
+    "Constituency": "Raver",
+    "MP_2014": "Raksha Nikhil Khadase",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 241,
+    "State": "Maharashtra",
+    "SL": 5,
+    "Constituency": "Buldhana",
+    "MP_2014": "Prataprao Ganpatrao Jadhav",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 242,
+    "State": "Maharashtra",
+    "SL": 6,
+    "Constituency": "Akola",
+    "MP_2014": "Sanjay Shamrao Dhotre",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 243,
+    "State": "Maharashtra",
+    "SL": 7,
+    "Constituency": "Amravati",
+    "MP_2014": "Anandrao Vithoba Adsul",
+    "Party_2014": "Shiv Sena",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 244,
+    "State": "Maharashtra",
+    "SL": 8,
+    "Constituency": "Wardha",
+    "MP_2014": "Ramdas Tadas",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 245,
+    "State": "Maharashtra",
+    "SL": 9,
+    "Constituency": "Ramtek",
+    "MP_2014": "Krupal Balaji Tumane",
+    "Party_2014": "Shiv Sena",
+    "Type": "SC",
+    "Schedule": 1
+  },
+  {
+    "Id": 246,
+    "State": "Maharashtra",
+    "SL": 10,
+    "Constituency": "Nagpur",
+    "MP_2014": "Nitin Gadkari",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 247,
+    "State": "Maharashtra",
+    "SL": 11,
+    "Constituency": "Bhandara-Gondiya",
+    "MP_2014": "Vacant",
+    "Party_2014": "Vacant",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 248,
+    "State": "Maharashtra",
+    "SL": 12,
+    "Constituency": "Gadchiroli-Chimur",
+    "MP_2014": "Ashok Nete",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 1
+  },
+  {
+    "Id": 249,
+    "State": "Maharashtra",
+    "SL": 13,
+    "Constituency": "Chandrapur",
+    "MP_2014": "Hansraj Gangaram Ahir",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 250,
+    "State": "Maharashtra",
+    "SL": 14,
+    "Constituency": "Yavatmal-Washim",
+    "MP_2014": "Bhavana Pundlikrao Gawali",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 251,
+    "State": "Maharashtra",
+    "SL": 15,
+    "Constituency": "Hingoli",
+    "MP_2014": "Rajeev Shankarrao Satav",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 252,
+    "State": "Maharashtra",
+    "SL": 16,
+    "Constituency": "Nanded",
+    "MP_2014": "Ashok Chavan",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 253,
+    "State": "Maharashtra",
+    "SL": 17,
+    "Constituency": "Parbhani",
+    "MP_2014": "Sanjay Haribhau Jadhav",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 254,
+    "State": "Maharashtra",
+    "SL": 18,
+    "Constituency": "Jalna",
+    "MP_2014": "Raosaheb Dadarao Danve",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 255,
+    "State": "Maharashtra",
+    "SL": 19,
+    "Constituency": "Aurangabad",
+    "MP_2014": "Chandrakant Khaire",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 256,
+    "State": "Maharashtra",
+    "SL": 20,
+    "Constituency": "Dindori",
+    "MP_2014": "Harishchandra Chavan",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 4
+  },
+  {
+    "Id": 257,
+    "State": "Maharashtra",
+    "SL": 21,
+    "Constituency": "Nashik",
+    "MP_2014": "Hemant Tukaram Godse",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 258,
+    "State": "Maharashtra",
+    "SL": 22,
+    "Constituency": "Palghar",
+    "MP_2014": "Vacant",
+    "Party_2014": "Vacant",
+    "Type": "ST",
+    "Schedule": 4
+  },
+  {
+    "Id": 259,
+    "State": "Maharashtra",
+    "SL": 23,
+    "Constituency": "Bhiwandi",
+    "MP_2014": "Kapil Moreshwar Patil",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 260,
+    "State": "Maharashtra",
+    "SL": 24,
+    "Constituency": "Kalyan",
+    "MP_2014": "Shrikant Eknath Shinde",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 261,
+    "State": "Maharashtra",
+    "SL": 25,
+    "Constituency": "Thane",
+    "MP_2014": "Rajan Vichare",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 262,
+    "State": "Maharashtra",
+    "SL": 26,
+    "Constituency": "Mumbai North",
+    "MP_2014": "Gopal Chinayya Shetty",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 263,
+    "State": "Maharashtra",
+    "SL": 27,
+    "Constituency": "Mumbai North West",
+    "MP_2014": "Gajanan Kirtikar",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 264,
+    "State": "Maharashtra",
+    "SL": 28,
+    "Constituency": "Mumbai North East",
+    "MP_2014": "Kirit Somaiya",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 265,
+    "State": "Maharashtra",
+    "SL": 29,
+    "Constituency": "Mumbai North Central",
+    "MP_2014": "Poonam Mahajan",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 266,
+    "State": "Maharashtra",
+    "SL": 30,
+    "Constituency": "Mumbai South Central",
+    "MP_2014": "Rahul Shewale",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 267,
+    "State": "Maharashtra",
+    "SL": 31,
+    "Constituency": "Mumbai South",
+    "MP_2014": "Arvind Sawant",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 268,
+    "State": "Maharashtra",
+    "SL": 32,
+    "Constituency": "Raigad",
+    "MP_2014": "Anant Geete",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 269,
+    "State": "Maharashtra",
+    "SL": 33,
+    "Constituency": "Maval",
+    "MP_2014": "Shrirang Chandu Barne",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 270,
+    "State": "Maharashtra",
+    "SL": 34,
+    "Constituency": "Pune",
+    "MP_2014": "Anil Shirole",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 271,
+    "State": "Maharashtra",
+    "SL": 35,
+    "Constituency": "Baramati",
+    "MP_2014": "Supriya Sule",
+    "Party_2014": "Nationalist Congress Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 272,
+    "State": "Maharashtra",
+    "SL": 36,
+    "Constituency": "Shirur",
+    "MP_2014": "Adhalrao Shivaji Dattatray",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 273,
+    "State": "Maharashtra",
+    "SL": 37,
+    "Constituency": "Ahmednagar",
+    "MP_2014": "Dilipkumar Mansukhlal Gandhi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 274,
+    "State": "Maharashtra",
+    "SL": 38,
+    "Constituency": "Shirdi",
+    "MP_2014": "Lokhande Sadashiv Kisan",
+    "Party_2014": "Shiv Sena",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 275,
+    "State": "Maharashtra",
+    "SL": 39,
+    "Constituency": "Beed",
+    "MP_2014": "Pritam Munde (Elected on 19 Oct 2014)",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 276,
+    "State": "Maharashtra",
+    "SL": 40,
+    "Constituency": "Osmanabad",
+    "MP_2014": "Ravindra Gaikwad",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 277,
+    "State": "Maharashtra",
+    "SL": 41,
+    "Constituency": "Latur",
+    "MP_2014": "Sunil Baliram Gaikwad",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 278,
+    "State": "Maharashtra",
+    "SL": 42,
+    "Constituency": "Solapur",
+    "MP_2014": "Sharad Bansode",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 279,
+    "State": "Maharashtra",
+    "SL": 43,
+    "Constituency": "Madha",
+    "MP_2014": "Vijaysinh Shankarrao Mohite-Patil",
+    "Party_2014": "Nationalist Congress Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 280,
+    "State": "Maharashtra",
+    "SL": 44,
+    "Constituency": "Sangli",
+    "MP_2014": "Sanjaykaka Patil",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 281,
+    "State": "Maharashtra",
+    "SL": 45,
+    "Constituency": "Satara",
+    "MP_2014": "Udayanraje Bhonsle",
+    "Party_2014": "Nationalist Congress Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 282,
+    "State": "Maharashtra",
+    "SL": 46,
+    "Constituency": "Ratnagiri-Sindhudurg",
+    "MP_2014": "Vinayak Raut",
+    "Party_2014": "Shiv Sena",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 283,
+    "State": "Maharashtra",
+    "SL": 47,
+    "Constituency": "Kolhapur",
+    "MP_2014": "Dhananjay Bhimrao Mahadik",
+    "Party_2014": "Nationalist Congress Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 284,
+    "State": "Maharashtra",
+    "SL": 48,
+    "Constituency": "Hatkanangle",
+    "MP_2014": "Raju Shetty",
+    "Party_2014": "Swabhimani Paksha",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 285,
+    "State": "Manipur",
+    "SL": 1,
+    "Constituency": "Inner Manipur",
+    "MP_2014": "Thokchom Meinya",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 286,
+    "State": "Manipur",
+    "SL": 2,
+    "Constituency": "Outer Manipur",
+    "MP_2014": "Thangso Baite",
+    "Party_2014": "Indian National Congress",
+    "Type": "ST",
+    "Schedule": 1
+  },
+  {
+    "Id": 287,
+    "State": "Meghalaya",
+    "SL": 1,
+    "Constituency": "Shillong",
+    "MP_2014": "Vincent H Pala",
+    "Party_2014": "Indian National Congress",
+    "Type": "ST",
+    "Schedule": 1
+  },
+  {
+    "Id": 288,
+    "State": "Meghalaya",
+    "SL": 2,
+    "Constituency": "Tura",
+    "MP_2014": "Conrad Sangma (Elected on 19 May 2016)",
+    "Party_2014": "National People's Party",
+    "Type": "ST",
+    "Schedule": 1
+  },
+  {
+    "Id": 289,
+    "State": "Mizoram",
+    "SL": 1,
+    "Constituency": "Mizoram",
+    "MP_2014": "C. L. Ruala",
+    "Party_2014": "Indian National Congress",
+    "Type": "ST",
+    "Schedule": 1
+  },
+  {
+    "Id": 290,
+    "State": "Nagaland",
+    "SL": 1,
+    "Constituency": "Nagaland",
+    "MP_2014": "Vacant",
+    "Party_2014": "Vacant",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 291,
+    "State": "Delhi",
+    "SL": 1,
+    "Constituency": "Chandni Chowk",
+    "MP_2014": "Harsh Vardhan",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 292,
+    "State": "Delhi",
+    "SL": 2,
+    "Constituency": "North East Delhi",
+    "MP_2014": "Manoj Tiwari",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 293,
+    "State": "Delhi",
+    "SL": 3,
+    "Constituency": "East Delhi",
+    "MP_2014": "Maheish Girri",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 294,
+    "State": "Delhi",
+    "SL": 4,
+    "Constituency": "New Delhi",
+    "MP_2014": "Meenakshi Lekhi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 295,
+    "State": "Delhi",
+    "SL": 5,
+    "Constituency": "North West Delhi",
+    "MP_2014": "Udit Raj",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 6
+  },
+  {
+    "Id": 296,
+    "State": "Delhi",
+    "SL": 6,
+    "Constituency": "West Delhi",
+    "MP_2014": "Parvesh Verma",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 297,
+    "State": "Delhi",
+    "SL": 7,
+    "Constituency": "South Delhi",
+    "MP_2014": "Ramesh Bidhuri",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 298,
+    "State": "Nominated",
+    "SL": 1,
+    "Constituency": "Anglo-Indian Community",
+    "MP_2014": "George Baker",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "NA",
+    "Schedule": 0
+  },
+  {
+    "Id": 299,
+    "State": "Nominated",
+    "SL": 2,
+    "Constituency": "Anglo-Indian Community",
+    "MP_2014": "Richard Hay",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "NA",
+    "Schedule": 0
+  },
+  {
+    "Id": 300,
+    "State": "Odisha",
+    "SL": 1,
+    "Constituency": "Bargarh",
+    "MP_2014": "Prabhas Kumar Singh",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 301,
+    "State": "Odisha",
+    "SL": 2,
+    "Constituency": "Sundargarh",
+    "MP_2014": "Jual Oram",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 2
+  },
+  {
+    "Id": 302,
+    "State": "Odisha",
+    "SL": 3,
+    "Constituency": "Sambalpur",
+    "MP_2014": "Nagendra Kumar Pradhan",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 303,
+    "State": "Odisha",
+    "SL": 4,
+    "Constituency": "Keonjhar",
+    "MP_2014": "Sakuntala Laguri",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "ST",
+    "Schedule": 3
+  },
+  {
+    "Id": 304,
+    "State": "Odisha",
+    "SL": 5,
+    "Constituency": "Mayurbhanj",
+    "MP_2014": "Rama Chandra Hansdah",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "ST",
+    "Schedule": 4
+  },
+  {
+    "Id": 305,
+    "State": "Odisha",
+    "SL": 6,
+    "Constituency": "Balasore",
+    "MP_2014": "Rabindra Kumar Jena",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 306,
+    "State": "Odisha",
+    "SL": 7,
+    "Constituency": "Bhadrak",
+    "MP_2014": "Arjun Charan Sethi",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 307,
+    "State": "Odisha",
+    "SL": 8,
+    "Constituency": "Jajpur",
+    "MP_2014": "Rita Tarai",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 308,
+    "State": "Odisha",
+    "SL": 9,
+    "Constituency": "Dhenkanal",
+    "MP_2014": "Tathagata Satpathy",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 309,
+    "State": "Odisha",
+    "SL": 10,
+    "Constituency": "Bolangir",
+    "MP_2014": "Kalikesh Narayan Singh Deo",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 310,
+    "State": "Odisha",
+    "SL": 11,
+    "Constituency": "Kalahandi",
+    "MP_2014": "Arka Keshari Deo",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 311,
+    "State": "Odisha",
+    "SL": 12,
+    "Constituency": "Nabarangpur",
+    "MP_2014": "Balabhadra Majhi",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "ST",
+    "Schedule": 1
+  },
+  {
+    "Id": 312,
+    "State": "Odisha",
+    "SL": 13,
+    "Constituency": "Kandhamal",
+    "MP_2014": "Pratyusha Rajeshwari Singh (Elected on 19 Oct 2015)",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 313,
+    "State": "Odisha",
+    "SL": 14,
+    "Constituency": "Cuttack",
+    "MP_2014": "Bhartruhari Mahtab",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 314,
+    "State": "Odisha",
+    "SL": 15,
+    "Constituency": "Kendrapara",
+    "MP_2014": "Baijayant Panda",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 315,
+    "State": "Odisha",
+    "SL": 16,
+    "Constituency": "Jagatsinghpur",
+    "MP_2014": "Kulamani Samal",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 316,
+    "State": "Odisha",
+    "SL": 17,
+    "Constituency": "Puri",
+    "MP_2014": "Pinaki Misra",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 317,
+    "State": "Odisha",
+    "SL": 18,
+    "Constituency": "Bhubaneswar",
+    "MP_2014": "Prasanna Kumar Patasani",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 318,
+    "State": "Odisha",
+    "SL": 19,
+    "Constituency": "Aska",
+    "MP_2014": "Ladu Kishore Swain",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 319,
+    "State": "Odisha",
+    "SL": 20,
+    "Constituency": "Berhampur",
+    "MP_2014": "Sidhant Mohapatra",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 320,
+    "State": "Odisha",
+    "SL": 21,
+    "Constituency": "Koraput",
+    "MP_2014": "Jhina Hikaka",
+    "Party_2014": "Biju Janata Dal",
+    "Type": "ST",
+    "Schedule": 1
+  },
+  {
+    "Id": 321,
+    "State": "Pondicherry",
+    "SL": 1,
+    "Constituency": "Puducherry",
+    "MP_2014": "R. Radhakrishnan",
+    "Party_2014": "All India N.R. Congress",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 322,
+    "State": "Punjab",
+    "SL": 1,
+    "Constituency": "Gurdaspur",
+    "MP_2014": "Sunil Jakhar (Elected on 15 October 2017)",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 323,
+    "State": "Punjab",
+    "SL": 2,
+    "Constituency": "Amritsar",
+    "MP_2014": "Gurjeet Singh Aujla (Elected on 11 March 2017)",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 324,
+    "State": "Punjab",
+    "SL": 3,
+    "Constituency": "Khadoor Sahib",
+    "MP_2014": "Ranjit Singh Brahmpura",
+    "Party_2014": "Shiromani Akali Dal",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 325,
+    "State": "Punjab",
+    "SL": 4,
+    "Constituency": "Jalandhar",
+    "MP_2014": "Santokh Singh Chaudhary",
+    "Party_2014": "Indian National Congress",
+    "Type": "SC",
+    "Schedule": 7
+  },
+  {
+    "Id": 326,
+    "State": "Punjab",
+    "SL": 5,
+    "Constituency": "Hoshiarpur",
+    "MP_2014": "Vijay Sampla",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 7
+  },
+  {
+    "Id": 327,
+    "State": "Punjab",
+    "SL": 6,
+    "Constituency": "Anandpur Sahib",
+    "MP_2014": "Prem Singh Chandumajra",
+    "Party_2014": "Shiromani Akali Dal",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 328,
+    "State": "Punjab",
+    "SL": 7,
+    "Constituency": "Ludhiana",
+    "MP_2014": "Ravneet Singh Bittu",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 329,
+    "State": "Punjab",
+    "SL": 8,
+    "Constituency": "Fatehgarh Sahib",
+    "MP_2014": "Harinder Singh Khalsa",
+    "Party_2014": "Aam Aadmi Party",
+    "Type": "SC",
+    "Schedule": 7
+  },
+  {
+    "Id": 330,
+    "State": "Punjab",
+    "SL": 9,
+    "Constituency": "Faridkot",
+    "MP_2014": "Sadhu Singh",
+    "Party_2014": "Aam Aadmi Party",
+    "Type": "SC",
+    "Schedule": 7
+  },
+  {
+    "Id": 331,
+    "State": "Punjab",
+    "SL": 10,
+    "Constituency": "Ferozpur",
+    "MP_2014": "Sher Singh Ghubaya",
+    "Party_2014": "Shiromani Akali Dal",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 332,
+    "State": "Punjab",
+    "SL": 11,
+    "Constituency": "Bathinda",
+    "MP_2014": "Harsimrat Kaur Badal",
+    "Party_2014": "Shiromani Akali Dal",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 333,
+    "State": "Punjab",
+    "SL": 12,
+    "Constituency": "Sangrur",
+    "MP_2014": "Bhagwant Mann",
+    "Party_2014": "Aam Aadmi Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 334,
+    "State": "Punjab",
+    "SL": 13,
+    "Constituency": "Patiala",
+    "MP_2014": "Dharam Vira Gandhi",
+    "Party_2014": "Aam Aadmi Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 335,
+    "State": "Rajasthan",
+    "SL": 1,
+    "Constituency": "Ganganagar",
+    "MP_2014": "Nihalchand",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 5
+  },
+  {
+    "Id": 336,
+    "State": "Rajasthan",
+    "SL": 2,
+    "Constituency": "Bikaner",
+    "MP_2014": "Arjun Ram Meghwal",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 5
+  },
+  {
+    "Id": 337,
+    "State": "Rajasthan",
+    "SL": 3,
+    "Constituency": "Churu",
+    "MP_2014": "Rahul Kaswan",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 338,
+    "State": "Rajasthan",
+    "SL": 4,
+    "Constituency": "Jhunjhunu",
+    "MP_2014": "Santosh Ahlawat",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 339,
+    "State": "Rajasthan",
+    "SL": 5,
+    "Constituency": "Sikar",
+    "MP_2014": "Sumedhanand Saraswati",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 340,
+    "State": "Rajasthan",
+    "SL": 6,
+    "Constituency": "Tonk-Sawai Madhopur",
+    "MP_2014": "Sukhbir Singh Jaunapuria",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 341,
+    "State": "Rajasthan",
+    "SL": 7,
+    "Constituency": "Jaipur",
+    "MP_2014": "Ramcharan Bohara",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 342,
+    "State": "Rajasthan",
+    "SL": 8,
+    "Constituency": "Alwar",
+    "MP_2014": "Karan Singh Yadav (Elected on 1 February 2018)",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 343,
+    "State": "Rajasthan",
+    "SL": 9,
+    "Constituency": "Bharatpur",
+    "MP_2014": "Bahadur Singh Koli",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 5
+  },
+  {
+    "Id": 344,
+    "State": "Rajasthan",
+    "SL": 10,
+    "Constituency": "Karauli-Dholpur",
+    "MP_2014": "Manoj Rajoria",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 5
+  },
+  {
+    "Id": 345,
+    "State": "Rajasthan",
+    "SL": 11,
+    "Constituency": "Dausa",
+    "MP_2014": "Harish Chandra Meena",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 5
+  },
+  {
+    "Id": 346,
+    "State": "Rajasthan",
+    "SL": 12,
+    "Constituency": "Jaipur Rural",
+    "MP_2014": "Rajyavardhan Singh Rathore",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 347,
+    "State": "Rajasthan",
+    "SL": 13,
+    "Constituency": "Ajmer",
+    "MP_2014": "Raghu Sharma (Elected on 1 February 2018)",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 348,
+    "State": "Rajasthan",
+    "SL": 14,
+    "Constituency": "Nagaur",
+    "MP_2014": "C R Choudhary",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 349,
+    "State": "Rajasthan",
+    "SL": 15,
+    "Constituency": "Pali",
+    "MP_2014": "P P Choudhary",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 350,
+    "State": "Rajasthan",
+    "SL": 16,
+    "Constituency": "Jodhpur",
+    "MP_2014": "Gajendrasingh Shekhawat",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 351,
+    "State": "Rajasthan",
+    "SL": 17,
+    "Constituency": "Barmer",
+    "MP_2014": "Sonaram Choudhary",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 352,
+    "State": "Rajasthan",
+    "SL": 18,
+    "Constituency": "Jalore",
+    "MP_2014": "Devji Patel",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 353,
+    "State": "Rajasthan",
+    "SL": 19,
+    "Constituency": "Udaipur",
+    "MP_2014": "Arjunlal Meena",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 4
+  },
+  {
+    "Id": 354,
+    "State": "Rajasthan",
+    "SL": 20,
+    "Constituency": "Banswara",
+    "MP_2014": "Manshankar Ninama",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "ST",
+    "Schedule": 4
+  },
+  {
+    "Id": 355,
+    "State": "Rajasthan",
+    "SL": 21,
+    "Constituency": "Chittorgarh",
+    "MP_2014": "Chandraprakash Joshi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 356,
+    "State": "Rajasthan",
+    "SL": 22,
+    "Constituency": "Rajsamand",
+    "MP_2014": "Hariom Singh Rathore",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 357,
+    "State": "Rajasthan",
+    "SL": 23,
+    "Constituency": "Bhilwara",
+    "MP_2014": "Subhash Baheria",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 358,
+    "State": "Rajasthan",
+    "SL": 24,
+    "Constituency": "Kota",
+    "MP_2014": "Om Birla",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 359,
+    "State": "Rajasthan",
+    "SL": 25,
+    "Constituency": "Jhalawar",
+    "MP_2014": "Dushyant Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 360,
+    "State": "Sikkim",
+    "SL": 1,
+    "Constituency": "Sikkim",
+    "MP_2014": "Prem Das Rai",
+    "Party_2014": "Sikkim Democratic Front",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 361,
+    "State": "Tamil Nadu",
+    "SL": 1,
+    "Constituency": "Thiruvallur",
+    "MP_2014": "P. Venugopal",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 362,
+    "State": "Tamil Nadu",
+    "SL": 2,
+    "Constituency": "Chennai North",
+    "MP_2014": "T. G. Venkatesh Babu",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 363,
+    "State": "Tamil Nadu",
+    "SL": 3,
+    "Constituency": "Chennai South",
+    "MP_2014": "J. Jayavardhan",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 364,
+    "State": "Tamil Nadu",
+    "SL": 4,
+    "Constituency": "Chennai Central",
+    "MP_2014": "S. R. Vijayakumar",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 365,
+    "State": "Tamil Nadu",
+    "SL": 5,
+    "Constituency": "Sriperumbudur",
+    "MP_2014": "K. N. Thiru Ramachandran",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 366,
+    "State": "Tamil Nadu",
+    "SL": 6,
+    "Constituency": "Kancheepuram",
+    "MP_2014": "Maragatham K",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 367,
+    "State": "Tamil Nadu",
+    "SL": 7,
+    "Constituency": "Arakkonam",
+    "MP_2014": "G. Hari",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 368,
+    "State": "Tamil Nadu",
+    "SL": 8,
+    "Constituency": "Vellore",
+    "MP_2014": "B. Senguttuvan",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 369,
+    "State": "Tamil Nadu",
+    "SL": 9,
+    "Constituency": "Krishnagiri",
+    "MP_2014": "K. Ashok Kumar",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 370,
+    "State": "Tamil Nadu",
+    "SL": 10,
+    "Constituency": "Dharmapuri",
+    "MP_2014": "Anbumani Ramadoss",
+    "Party_2014": "Pattali Makkal Katchi",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 371,
+    "State": "Tamil Nadu",
+    "SL": 11,
+    "Constituency": "Tiruvannamalai",
+    "MP_2014": "R. Vanaroja",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 372,
+    "State": "Tamil Nadu",
+    "SL": 12,
+    "Constituency": "Arani",
+    "MP_2014": "V. Elumalai",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 373,
+    "State": "Tamil Nadu",
+    "SL": 13,
+    "Constituency": "Viluppuram",
+    "MP_2014": "S. Rajendran",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 374,
+    "State": "Tamil Nadu",
+    "SL": 14,
+    "Constituency": "Kallakurichi",
+    "MP_2014": "K. Kamaraj",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 375,
+    "State": "Tamil Nadu",
+    "SL": 15,
+    "Constituency": "Salem",
+    "MP_2014": "V. Pannerselvam",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 376,
+    "State": "Tamil Nadu",
+    "SL": 16,
+    "Constituency": "Namakkal",
+    "MP_2014": "P. R. Sundaram",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 377,
+    "State": "Tamil Nadu",
+    "SL": 17,
+    "Constituency": "Erode",
+    "MP_2014": "S. Selvakumara Chinnayan",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 378,
+    "State": "Tamil Nadu",
+    "SL": 18,
+    "Constituency": "Tiruppur",
+    "MP_2014": "V. Sathyabama",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 379,
+    "State": "Tamil Nadu",
+    "SL": 19,
+    "Constituency": "Nilgiris",
+    "MP_2014": "C. Gopalakrishnan",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 380,
+    "State": "Tamil Nadu",
+    "SL": 20,
+    "Constituency": "Coimbatore",
+    "MP_2014": "P. Nagarajan",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 381,
+    "State": "Tamil Nadu",
+    "SL": 21,
+    "Constituency": "Pollachi",
+    "MP_2014": "C. Mahendran",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 382,
+    "State": "Tamil Nadu",
+    "SL": 22,
+    "Constituency": "Dindigul",
+    "MP_2014": "M. Udhayakumar",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 383,
+    "State": "Tamil Nadu",
+    "SL": 23,
+    "Constituency": "Karur",
+    "MP_2014": "M. Thambidurai",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 384,
+    "State": "Tamil Nadu",
+    "SL": 24,
+    "Constituency": "Tiruchirappalli",
+    "MP_2014": "P. Kumar",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 385,
+    "State": "Tamil Nadu",
+    "SL": 25,
+    "Constituency": "Perambalur",
+    "MP_2014": "R. P. Marutharajaa",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 386,
+    "State": "Tamil Nadu",
+    "SL": 26,
+    "Constituency": "Cuddalore",
+    "MP_2014": "A. Arunmozhithevan",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 387,
+    "State": "Tamil Nadu",
+    "SL": 27,
+    "Constituency": "Chidambaram",
+    "MP_2014": "M. Chandrakasi",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 388,
+    "State": "Tamil Nadu",
+    "SL": 28,
+    "Constituency": "Mayiladuthurai",
+    "MP_2014": "R. K. Bharathi Mohan",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 389,
+    "State": "Tamil Nadu",
+    "SL": 29,
+    "Constituency": "Nagapattinam",
+    "MP_2014": "K. Gopal",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 390,
+    "State": "Tamil Nadu",
+    "SL": 30,
+    "Constituency": "Thanjavur",
+    "MP_2014": "K. Parasuraman",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 391,
+    "State": "Tamil Nadu",
+    "SL": 31,
+    "Constituency": "Sivaganga",
+    "MP_2014": "P. R. Senthilnathan",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 392,
+    "State": "Tamil Nadu",
+    "SL": 32,
+    "Constituency": "Madurai",
+    "MP_2014": "R. Gopalakrishnan",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 393,
+    "State": "Tamil Nadu",
+    "SL": 33,
+    "Constituency": "Theni",
+    "MP_2014": "R. Parthipan",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 394,
+    "State": "Tamil Nadu",
+    "SL": 34,
+    "Constituency": "Virudhunagar",
+    "MP_2014": "T. Radhakrishnan",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 395,
+    "State": "Tamil Nadu",
+    "SL": 35,
+    "Constituency": "Ramanathapuram",
+    "MP_2014": "A. Anwhar Raajhaa",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 396,
+    "State": "Tamil Nadu",
+    "SL": 36,
+    "Constituency": "Thoothukkudi",
+    "MP_2014": "J. Jeyasingh Thiyagaraj Natterjee",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 397,
+    "State": "Tamil Nadu",
+    "SL": 37,
+    "Constituency": "Tenkasi",
+    "MP_2014": "M. Vasanthi",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 398,
+    "State": "Tamil Nadu",
+    "SL": 38,
+    "Constituency": "Tirunelveli",
+    "MP_2014": "K. R. P. Prabakaran",
+    "Party_2014": "All India Anna Dravida Munnetra Kazhagam",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 399,
+    "State": "Tamil Nadu",
+    "SL": 39,
+    "Constituency": "Kanyakumari",
+    "MP_2014": "Pon Radhakrishnan",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 400,
+    "State": "Telangana",
+    "SL": 1,
+    "Constituency": "Adilabad",
+    "MP_2014": "G. Nagesh",
+    "Party_2014": "Telangana Rashtra Samithi",
+    "Type": "ST",
+    "Schedule": 1
+  },
+  {
+    "Id": 401,
+    "State": "Telangana",
+    "SL": 2,
+    "Constituency": "Peddapalle",
+    "MP_2014": "Balka Suman",
+    "Party_2014": "Telangana Rashtra Samithi",
+    "Type": "SC",
+    "Schedule": 1
+  },
+  {
+    "Id": 402,
+    "State": "Telangana",
+    "SL": 3,
+    "Constituency": "Karimnagar",
+    "MP_2014": "Vinod Kumar Boianapalli",
+    "Party_2014": "Telangana Rashtra Samithi",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 403,
+    "State": "Telangana",
+    "SL": 4,
+    "Constituency": "Nizamabad",
+    "MP_2014": "Kalvakuntla Kavitha",
+    "Party_2014": "Telangana Rashtra Samithi",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 404,
+    "State": "Telangana",
+    "SL": 5,
+    "Constituency": "Zahirabad",
+    "MP_2014": "B. B. Patil",
+    "Party_2014": "Telangana Rashtra Samithi",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 405,
+    "State": "Telangana",
+    "SL": 6,
+    "Constituency": "Medak",
+    "MP_2014": "Kotha Prabhakar Reddy (Elected on 16 Sep 2014)",
+    "Party_2014": "Telangana Rashtra Samithi",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 406,
+    "State": "Telangana",
+    "SL": 7,
+    "Constituency": "Malkajgiri",
+    "MP_2014": "Malla Reddy",
+    "Party_2014": "Telugu Desam Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 407,
+    "State": "Telangana",
+    "SL": 8,
+    "Constituency": "Secunderabad",
+    "MP_2014": "Bandaru Dattatreya",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 408,
+    "State": "Telangana",
+    "SL": 9,
+    "Constituency": "Hyderabad",
+    "MP_2014": "Asaduddin Owaisi",
+    "Party_2014": "All India Majlis-e-Ittehadul Muslimeen",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 409,
+    "State": "Telangana",
+    "SL": 10,
+    "Constituency": "Chevella",
+    "MP_2014": "Konda Vishweshwar Reddy",
+    "Party_2014": "Telangana Rashtra Samithi",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 410,
+    "State": "Telangana",
+    "SL": 11,
+    "Constituency": "Mahbubnagar",
+    "MP_2014": "A. P. Jithender Reddy",
+    "Party_2014": "Telangana Rashtra Samithi",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 411,
+    "State": "Telangana",
+    "SL": 12,
+    "Constituency": "Nagarkurnool",
+    "MP_2014": "Nandi Yellaiah",
+    "Party_2014": "Indian National Congress",
+    "Type": "SC",
+    "Schedule": 1
+  },
+  {
+    "Id": 412,
+    "State": "Telangana",
+    "SL": 13,
+    "Constituency": "Nalgonda",
+    "MP_2014": "Gutha Sukender Reddy",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 413,
+    "State": "Telangana",
+    "SL": 14,
+    "Constituency": "Bhongir",
+    "MP_2014": "Boora Narsaiah Goud",
+    "Party_2014": "Telangana Rashtra Samithi",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 414,
+    "State": "Telangana",
+    "SL": 15,
+    "Constituency": "Warangal",
+    "MP_2014": "Pasunuri Dayakar (Elected on 24 Nov 2015)",
+    "Party_2014": "Telangana Rashtra Samithi",
+    "Type": "SC",
+    "Schedule": 1
+  },
+  {
+    "Id": 415,
+    "State": "Telangana",
+    "SL": 16,
+    "Constituency": "Mahabubabad",
+    "MP_2014": "A. Sitaram Naik",
+    "Party_2014": "Telangana Rashtra Samithi",
+    "Type": "ST",
+    "Schedule": 1
+  },
+  {
+    "Id": 416,
+    "State": "Telangana",
+    "SL": 17,
+    "Constituency": "Khammam",
+    "MP_2014": "Ponguleti Srinivas Reddy",
+    "Party_2014": "YSR Congress Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 417,
+    "State": "Tripura",
+    "SL": 1,
+    "Constituency": "Tripura West",
+    "MP_2014": "Sankar Prasad Datta",
+    "Party_2014": "Communist Party of India (Marxist)",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 418,
+    "State": "Tripura",
+    "SL": 2,
+    "Constituency": "Tripura East",
+    "MP_2014": "Jitendra Choudhury",
+    "Party_2014": "Communist Party of India (Marxist)",
+    "Type": "ST",
+    "Schedule": 2
+  },
+  {
+    "Id": 419,
+    "State": "Uttar Pradesh",
+    "SL": 1,
+    "Constituency": "Saharanpur",
+    "MP_2014": "Raghav Lakhanpal",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 420,
+    "State": "Uttar Pradesh",
+    "SL": 2,
+    "Constituency": "Kairana",
+    "MP_2014": "Vacant",
+    "Party_2014": "Vacant",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 421,
+    "State": "Uttar Pradesh",
+    "SL": 3,
+    "Constituency": "Muzaffarnagar",
+    "MP_2014": "Dr. Sanjeev Kumar Balyan",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 422,
+    "State": "Uttar Pradesh",
+    "SL": 4,
+    "Constituency": "Bijnor",
+    "MP_2014": "Kunwar Bhartendra Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 423,
+    "State": "Uttar Pradesh",
+    "SL": 5,
+    "Constituency": "Nagina",
+    "MP_2014": "Yashwant Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 424,
+    "State": "Uttar Pradesh",
+    "SL": 6,
+    "Constituency": "Moradabad",
+    "MP_2014": "Kunwar Sarvesh Kumar Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 425,
+    "State": "Uttar Pradesh",
+    "SL": 7,
+    "Constituency": "Rampur",
+    "MP_2014": "Nepal Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 426,
+    "State": "Uttar Pradesh",
+    "SL": 8,
+    "Constituency": "Sambhal",
+    "MP_2014": "Satyapal Singh Saini",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 427,
+    "State": "Uttar Pradesh",
+    "SL": 9,
+    "Constituency": "Amroha",
+    "MP_2014": "Kanwar Singh Tanwar",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 428,
+    "State": "Uttar Pradesh",
+    "SL": 10,
+    "Constituency": "Meerut",
+    "MP_2014": "Rajendra Agrawal",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 429,
+    "State": "Uttar Pradesh",
+    "SL": 11,
+    "Constituency": "Baghpat",
+    "MP_2014": "Satyapal Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 430,
+    "State": "Uttar Pradesh",
+    "SL": 12,
+    "Constituency": "Ghaziabad",
+    "MP_2014": "Vijay Kumar Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 431,
+    "State": "Uttar Pradesh",
+    "SL": 13,
+    "Constituency": "Gautam Buddh Nagar",
+    "MP_2014": "Dr. Mahesh Sharma",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 432,
+    "State": "Uttar Pradesh",
+    "SL": 14,
+    "Constituency": "Bulandshahr",
+    "MP_2014": "Bhola Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 433,
+    "State": "Uttar Pradesh",
+    "SL": 15,
+    "Constituency": "Aligarh",
+    "MP_2014": "Satish Kumar Gautam",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 434,
+    "State": "Uttar Pradesh",
+    "SL": 16,
+    "Constituency": "Hathras",
+    "MP_2014": "Rajesh Kumar Diwaker",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 435,
+    "State": "Uttar Pradesh",
+    "SL": 17,
+    "Constituency": "Mathura",
+    "MP_2014": "Hema Malini",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 436,
+    "State": "Uttar Pradesh",
+    "SL": 18,
+    "Constituency": "Agra",
+    "MP_2014": "Dr. Ram Shankar Katheria",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 437,
+    "State": "Uttar Pradesh",
+    "SL": 19,
+    "Constituency": "Fatehpur Sikri",
+    "MP_2014": "Choudhary Babulal",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 438,
+    "State": "Uttar Pradesh",
+    "SL": 20,
+    "Constituency": "Firozabad",
+    "MP_2014": "Akshay Yadav",
+    "Party_2014": "Samajwadi Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 439,
+    "State": "Uttar Pradesh",
+    "SL": 21,
+    "Constituency": "Mainpuri",
+    "MP_2014": "Tej Pratap Singh Yadav (Elected on 16 Sept 2014)",
+    "Party_2014": "Samajwadi Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 440,
+    "State": "Uttar Pradesh",
+    "SL": 22,
+    "Constituency": "Etah",
+    "MP_2014": "Rajveer Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 441,
+    "State": "Uttar Pradesh",
+    "SL": 23,
+    "Constituency": "Badaun",
+    "MP_2014": "Dharmendra Yadav",
+    "Party_2014": "Samajwadi Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 442,
+    "State": "Uttar Pradesh",
+    "SL": 24,
+    "Constituency": "Aonla",
+    "MP_2014": "Dharmendra Kashyap",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 443,
+    "State": "Uttar Pradesh",
+    "SL": 25,
+    "Constituency": "Bareilly",
+    "MP_2014": "Santosh Kumar Gangwar",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 444,
+    "State": "Uttar Pradesh",
+    "SL": 26,
+    "Constituency": "Pilibhit",
+    "MP_2014": "Maneka Gandhi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 445,
+    "State": "Uttar Pradesh",
+    "SL": 27,
+    "Constituency": "Shahjahanpur",
+    "MP_2014": "Krishna Raj",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 446,
+    "State": "Uttar Pradesh",
+    "SL": 28,
+    "Constituency": "Kheri",
+    "MP_2014": "Ajay Kumar Mishra",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 447,
+    "State": "Uttar Pradesh",
+    "SL": 29,
+    "Constituency": "Dhaurahra",
+    "MP_2014": "Rekha Verma",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 448,
+    "State": "Uttar Pradesh",
+    "SL": 30,
+    "Constituency": "Sitapur",
+    "MP_2014": "Rajesh Verma",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 449,
+    "State": "Uttar Pradesh",
+    "SL": 31,
+    "Constituency": "Hardoi",
+    "MP_2014": "Anshul Verma",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 450,
+    "State": "Uttar Pradesh",
+    "SL": 32,
+    "Constituency": "Misrikh",
+    "MP_2014": "Anju Bala",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 451,
+    "State": "Uttar Pradesh",
+    "SL": 33,
+    "Constituency": "Unnao",
+    "MP_2014": "Dr. Sachidanand Hari Sakshi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 452,
+    "State": "Uttar Pradesh",
+    "SL": 34,
+    "Constituency": "Mohanlalganj",
+    "MP_2014": "Kaushal Kishore",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 5
+  },
+  {
+    "Id": 453,
+    "State": "Uttar Pradesh",
+    "SL": 35,
+    "Constituency": "Lucknow",
+    "MP_2014": "Raj Nath Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 454,
+    "State": "Uttar Pradesh",
+    "SL": 36,
+    "Constituency": "Rae Bareli",
+    "MP_2014": "Sonia Gandhi",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 455,
+    "State": "Uttar Pradesh",
+    "SL": 37,
+    "Constituency": "Amethi",
+    "MP_2014": "Rahul Gandhi",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 456,
+    "State": "Uttar Pradesh",
+    "SL": 38,
+    "Constituency": "Sultanpur",
+    "MP_2014": "Varun Gandhi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 457,
+    "State": "Uttar Pradesh",
+    "SL": 39,
+    "Constituency": "Pratapgarh",
+    "MP_2014": "Kumar Harivansh Singh",
+    "Party_2014": "Apna Dal",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 458,
+    "State": "Uttar Pradesh",
+    "SL": 40,
+    "Constituency": "Farrukhabad",
+    "MP_2014": "Mukesh Rajput",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 459,
+    "State": "Uttar Pradesh",
+    "SL": 41,
+    "Constituency": "Etawah",
+    "MP_2014": "Ashok Kumar Dohre",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 460,
+    "State": "Uttar Pradesh",
+    "SL": 42,
+    "Constituency": "Kannauj",
+    "MP_2014": "Dimple Yadav",
+    "Party_2014": "Samajwadi Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 461,
+    "State": "Uttar Pradesh",
+    "SL": 43,
+    "Constituency": "Kanpur",
+    "MP_2014": "Dr. Murli Manohar Joshi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 462,
+    "State": "Uttar Pradesh",
+    "SL": 44,
+    "Constituency": "Akbarpur",
+    "MP_2014": "Devendra Singh (Bhole Singh)",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 463,
+    "State": "Uttar Pradesh",
+    "SL": 45,
+    "Constituency": "Jalaun",
+    "MP_2014": "Bhanu Pratap Singh Verma",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 464,
+    "State": "Uttar Pradesh",
+    "SL": 46,
+    "Constituency": "Jhansi",
+    "MP_2014": "Uma Bharti",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 465,
+    "State": "Uttar Pradesh",
+    "SL": 47,
+    "Constituency": "Hamirpur",
+    "MP_2014": "Kunwar Pushpendra Singh Chandel",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 466,
+    "State": "Uttar Pradesh",
+    "SL": 48,
+    "Constituency": "Banda",
+    "MP_2014": "Bhairon Prasad Mishra",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 467,
+    "State": "Uttar Pradesh",
+    "SL": 49,
+    "Constituency": "Fatehpur",
+    "MP_2014": "Niranjan Jyoti",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 468,
+    "State": "Uttar Pradesh",
+    "SL": 50,
+    "Constituency": "Kaushambi",
+    "MP_2014": "Vinod Kumar Sonkar",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 5
+  },
+  {
+    "Id": 469,
+    "State": "Uttar Pradesh",
+    "SL": 51,
+    "Constituency": "Phulpur",
+    "MP_2014": "Nagendra Pratap Singh Patel (Elected on 14 March 2018)",
+    "Party_2014": "Samajwadi Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 470,
+    "State": "Uttar Pradesh",
+    "SL": 52,
+    "Constituency": "Allahabad",
+    "MP_2014": "Shyama Charan Gupta",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 471,
+    "State": "Uttar Pradesh",
+    "SL": 53,
+    "Constituency": "Barabanki",
+    "MP_2014": "Priyanka Singh Rawat",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 5
+  },
+  {
+    "Id": 472,
+    "State": "Uttar Pradesh",
+    "SL": 54,
+    "Constituency": "Faizabad",
+    "MP_2014": "Lallu Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 473,
+    "State": "Uttar Pradesh",
+    "SL": 55,
+    "Constituency": "Ambedkar Nagar",
+    "MP_2014": "Hari Om Pandey",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 474,
+    "State": "Uttar Pradesh",
+    "SL": 56,
+    "Constituency": "Bahraich",
+    "MP_2014": "Savitri Bai Phule",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 5
+  },
+  {
+    "Id": 475,
+    "State": "Uttar Pradesh",
+    "SL": 57,
+    "Constituency": "Kaiserganj",
+    "MP_2014": "Brij Bhushan Sharan Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 476,
+    "State": "Uttar Pradesh",
+    "SL": 58,
+    "Constituency": "Shrawasti",
+    "MP_2014": "Daddan Mishra",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 477,
+    "State": "Uttar Pradesh",
+    "SL": 59,
+    "Constituency": "Gonda",
+    "MP_2014": "Kirti Vardhan Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 478,
+    "State": "Uttar Pradesh",
+    "SL": 60,
+    "Constituency": "Domariyaganj",
+    "MP_2014": "Jagdambika Pal",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 479,
+    "State": "Uttar Pradesh",
+    "SL": 61,
+    "Constituency": "Basti",
+    "MP_2014": "Harish Dwivedi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 480,
+    "State": "Uttar Pradesh",
+    "SL": 62,
+    "Constituency": "Sant Kabir Nagar",
+    "MP_2014": "Sharad Tripathi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 481,
+    "State": "Uttar Pradesh",
+    "SL": 63,
+    "Constituency": "Maharajganj",
+    "MP_2014": "Pankaj Choudhary",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 482,
+    "State": "Uttar Pradesh",
+    "SL": 64,
+    "Constituency": "Gorakhpur",
+    "MP_2014": "Praveen Kumar Nishad (Elected on 14 March 2018)",
+    "Party_2014": "Samajwadi Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 483,
+    "State": "Uttar Pradesh",
+    "SL": 65,
+    "Constituency": "Kushi Nagar",
+    "MP_2014": "Rajesh Pandey",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 484,
+    "State": "Uttar Pradesh",
+    "SL": 66,
+    "Constituency": "Deoria",
+    "MP_2014": "Kalraj Mishra",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 485,
+    "State": "Uttar Pradesh",
+    "SL": 67,
+    "Constituency": "Bansgaon",
+    "MP_2014": "Kamlesh Paswan",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 7
+  },
+  {
+    "Id": 486,
+    "State": "Uttar Pradesh",
+    "SL": 68,
+    "Constituency": "Lalganj",
+    "MP_2014": "Neelam Sonkar",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 6
+  },
+  {
+    "Id": 487,
+    "State": "Uttar Pradesh",
+    "SL": 69,
+    "Constituency": "Azamgarh",
+    "MP_2014": "Mulayam Singh Yadav",
+    "Party_2014": "Samajwadi Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 488,
+    "State": "Uttar Pradesh",
+    "SL": 70,
+    "Constituency": "Ghosi",
+    "MP_2014": "Harinarayan Rajbhar",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 489,
+    "State": "Uttar Pradesh",
+    "SL": 71,
+    "Constituency": "Salempur",
+    "MP_2014": "Ravindra Kushawaha",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 490,
+    "State": "Uttar Pradesh",
+    "SL": 72,
+    "Constituency": "Ballia",
+    "MP_2014": "Bharat Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 491,
+    "State": "Uttar Pradesh",
+    "SL": 73,
+    "Constituency": "Jaunpur",
+    "MP_2014": "Krishna Pratap",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 492,
+    "State": "Uttar Pradesh",
+    "SL": 74,
+    "Constituency": "Machhlishahr",
+    "MP_2014": "Ram Charitra Nishad",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 6
+  },
+  {
+    "Id": 493,
+    "State": "Uttar Pradesh",
+    "SL": 75,
+    "Constituency": "Ghazipur",
+    "MP_2014": "Manoj Sinha",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 494,
+    "State": "Uttar Pradesh",
+    "SL": 76,
+    "Constituency": "Chandauli",
+    "MP_2014": "Mahendra Nath Pandey",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 495,
+    "State": "Uttar Pradesh",
+    "SL": 77,
+    "Constituency": "Varanasi",
+    "MP_2014": "Narendra Modi",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 496,
+    "State": "Uttar Pradesh",
+    "SL": 78,
+    "Constituency": "Bhadohi",
+    "MP_2014": "Virendra Singh",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 497,
+    "State": "Uttar Pradesh",
+    "SL": 79,
+    "Constituency": "Mirzapur",
+    "MP_2014": "Anupriya Singh Patel",
+    "Party_2014": "Apna Dal",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 498,
+    "State": "Uttar Pradesh",
+    "SL": 80,
+    "Constituency": "Robertsganj",
+    "MP_2014": "Chhotelal",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 7
+  },
+  {
+    "Id": 499,
+    "State": "Uttarakhand",
+    "SL": 1,
+    "Constituency": "Tehri Garhwal",
+    "MP_2014": "Mala Rajya Laxmi Shah",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 500,
+    "State": "Uttarakhand",
+    "SL": 2,
+    "Constituency": "Garhwal",
+    "MP_2014": "Bhuwan Chandra Khanduri",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 501,
+    "State": "Uttarakhand",
+    "SL": 3,
+    "Constituency": "Almora",
+    "MP_2014": "Ajay Tamta",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "SC",
+    "Schedule": 1
+  },
+  {
+    "Id": 502,
+    "State": "Uttarakhand",
+    "SL": 4,
+    "Constituency": "Nainital-Udhamsingh Nagar",
+    "MP_2014": "Bhagat Singh Koshyari",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 503,
+    "State": "Uttarakhand",
+    "SL": 5,
+    "Constituency": "Haridwar",
+    "MP_2014": "Ramesh Pokhriyal",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 1
+  },
+  {
+    "Id": 504,
+    "State": "West Bengal",
+    "SL": 1,
+    "Constituency": "Cooch Behar",
+    "MP_2014": "Parthapratim Roy (Elected on 22 Nov 2016)",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "SC",
+    "Schedule": 1
+  },
+  {
+    "Id": 505,
+    "State": "West Bengal",
+    "SL": 2,
+    "Constituency": "Alipurduars",
+    "MP_2014": "Dasrath Tirkey",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "ST",
+    "Schedule": 1
+  },
+  {
+    "Id": 506,
+    "State": "West Bengal",
+    "SL": 3,
+    "Constituency": "Jalpaiguri",
+    "MP_2014": "Bijoy Chandra Barman",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "SC",
+    "Schedule": 2
+  },
+  {
+    "Id": 507,
+    "State": "West Bengal",
+    "SL": 4,
+    "Constituency": "Darjeeling",
+    "MP_2014": "S S Ahluwalia",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 508,
+    "State": "West Bengal",
+    "SL": 5,
+    "Constituency": "Raiganj",
+    "MP_2014": "Mohammed Salim",
+    "Party_2014": "Communist Party of India (Marxist)",
+    "Type": "GEN",
+    "Schedule": 2
+  },
+  {
+    "Id": 509,
+    "State": "West Bengal",
+    "SL": 6,
+    "Constituency": "Balurghat",
+    "MP_2014": "Arpita Ghosh",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 510,
+    "State": "West Bengal",
+    "SL": 7,
+    "Constituency": "Maldaha Uttar",
+    "MP_2014": "Mausam Noor",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 511,
+    "State": "West Bengal",
+    "SL": 8,
+    "Constituency": "Maldaha Dakshin",
+    "MP_2014": "Abu Hasem Khan Choudhury",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 512,
+    "State": "West Bengal",
+    "SL": 9,
+    "Constituency": "Jangipur",
+    "MP_2014": "Abhijit Mukherjee",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 513,
+    "State": "West Bengal",
+    "SL": 10,
+    "Constituency": "Baharampur",
+    "MP_2014": "Adhir Ranjan Chowdhury",
+    "Party_2014": "Indian National Congress",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 514,
+    "State": "West Bengal",
+    "SL": 11,
+    "Constituency": "Murshidabad",
+    "MP_2014": "Badaruddoza Khan",
+    "Party_2014": "Communist Party of India (Marxist)",
+    "Type": "GEN",
+    "Schedule": 3
+  },
+  {
+    "Id": 515,
+    "State": "West Bengal",
+    "SL": 12,
+    "Constituency": "Krishnanagar",
+    "MP_2014": "Tapas Paul",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 516,
+    "State": "West Bengal",
+    "SL": 13,
+    "Constituency": "Ranaghat",
+    "MP_2014": "Tapas Mandal",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 517,
+    "State": "West Bengal",
+    "SL": 14,
+    "Constituency": "Bangaon",
+    "MP_2014": "Mamata Thakur (Elected on 16 Feb 2015)",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "SC",
+    "Schedule": 5
+  },
+  {
+    "Id": 518,
+    "State": "West Bengal",
+    "SL": 15,
+    "Constituency": "Barrackpore",
+    "MP_2014": "Dinesh Trivedi",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 519,
+    "State": "West Bengal",
+    "SL": 16,
+    "Constituency": "Dum Dum",
+    "MP_2014": "Saugata Roy",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 520,
+    "State": "West Bengal",
+    "SL": 17,
+    "Constituency": "Barasat",
+    "MP_2014": "Kakali Ghoshdostidar",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 521,
+    "State": "West Bengal",
+    "SL": 18,
+    "Constituency": "Basirhat",
+    "MP_2014": "Idris Ali",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 522,
+    "State": "West Bengal",
+    "SL": 19,
+    "Constituency": "Joynagar",
+    "MP_2014": "Pratima Mondal",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "SC",
+    "Schedule": 7
+  },
+  {
+    "Id": 523,
+    "State": "West Bengal",
+    "SL": 20,
+    "Constituency": "Mathurapur",
+    "MP_2014": "Choudhury Mohan Jatua",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "SC",
+    "Schedule": 7
+  },
+  {
+    "Id": 524,
+    "State": "West Bengal",
+    "SL": 21,
+    "Constituency": "Diamond Harbour",
+    "MP_2014": "Abhishek Banerjee",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 525,
+    "State": "West Bengal",
+    "SL": 22,
+    "Constituency": "Jadavpur",
+    "MP_2014": "Sugata Bose",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 526,
+    "State": "West Bengal",
+    "SL": 23,
+    "Constituency": "Kolkata Dakshin",
+    "MP_2014": "Subrata Bakshi",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 527,
+    "State": "West Bengal",
+    "SL": 24,
+    "Constituency": "Kolkata Uttar",
+    "MP_2014": "Sudip Bandyopadhyay",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 7
+  },
+  {
+    "Id": 528,
+    "State": "West Bengal",
+    "SL": 25,
+    "Constituency": "Howrah",
+    "MP_2014": "Prasun Banerjee",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 529,
+    "State": "West Bengal",
+    "SL": 26,
+    "Constituency": "Uluberia",
+    "MP_2014": "Sajda Ahmed (Elected on 1 February 2018)",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 530,
+    "State": "West Bengal",
+    "SL": 27,
+    "Constituency": "Srerampur",
+    "MP_2014": "Kalyan Banerjee",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 531,
+    "State": "West Bengal",
+    "SL": 28,
+    "Constituency": "Hooghly",
+    "MP_2014": "Ratna De (Nag)",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 5
+  },
+  {
+    "Id": 532,
+    "State": "West Bengal",
+    "SL": 29,
+    "Constituency": "Arambagh",
+    "MP_2014": "Aparupa Poddar (Afrin Ali)",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "SC",
+    "Schedule": 5
+  },
+  {
+    "Id": 533,
+    "State": "West Bengal",
+    "SL": 30,
+    "Constituency": "Tamluk",
+    "MP_2014": "Dibyendu Adhikari (Elected on 22 Nov 2016)",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 534,
+    "State": "West Bengal",
+    "SL": 31,
+    "Constituency": "Kanthi",
+    "MP_2014": "Sisir Adhikari",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 535,
+    "State": "West Bengal",
+    "SL": 32,
+    "Constituency": "Ghatal",
+    "MP_2014": "Deepak Adhikari (Dev)",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 536,
+    "State": "West Bengal",
+    "SL": 33,
+    "Constituency": "Jhargram",
+    "MP_2014": "Uma Saren",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "ST",
+    "Schedule": 6
+  },
+  {
+    "Id": 537,
+    "State": "West Bengal",
+    "SL": 34,
+    "Constituency": "Medinipur",
+    "MP_2014": "Sandhya Roy",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 538,
+    "State": "West Bengal",
+    "SL": 35,
+    "Constituency": "Purulia",
+    "MP_2014": "Mriganka Mahato",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 539,
+    "State": "West Bengal",
+    "SL": 36,
+    "Constituency": "Bankura",
+    "MP_2014": "Moon Moon Sen",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 6
+  },
+  {
+    "Id": 540,
+    "State": "West Bengal",
+    "SL": 37,
+    "Constituency": "Bishnupur",
+    "MP_2014": "Saumitra Khan",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "SC",
+    "Schedule": 6
+  },
+  {
+    "Id": 541,
+    "State": "West Bengal",
+    "SL": 38,
+    "Constituency": "Bardhaman Purba",
+    "MP_2014": "Sunil Kumar Mandal",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 542,
+    "State": "West Bengal",
+    "SL": 39,
+    "Constituency": "Burdwan-Durgapur",
+    "MP_2014": "Mamtaz Sanghamita",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 543,
+    "State": "West Bengal",
+    "SL": 40,
+    "Constituency": "Asansol",
+    "MP_2014": "Babul Supriyo",
+    "Party_2014": "Bharatiya Janata Party",
+    "Type": "GEN",
+    "Schedule": 4
+  },
+  {
+    "Id": 544,
+    "State": "West Bengal",
+    "SL": 41,
+    "Constituency": "Bolpur",
+    "MP_2014": "Anupam Hazra",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "SC",
+    "Schedule": 4
+  },
+  {
+    "Id": 545,
+    "State": "West Bengal",
+    "SL": 42,
+    "Constituency": "Birbhum",
+    "MP_2014": "Satabdi Roy",
+    "Party_2014": "All India Trinamool Congress",
+    "Type": "GEN",
+    "Schedule": 4
+  }
+]

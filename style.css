@@ -1,0 +1,37 @@
+main {
+    margin-top: 75px;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    font-family: 'Segoe UI' !important;
+}
+
+/* body::after {
+    content: '';
+    display: block;
+    height: 100px;
+} */
+
+footer {
+    /* position: absolute; */
+    bottom: 0;
+    top: 20px;
+    width: 100%;
+    height: 60px;
+    background-color: #f5f5f5;
+}
+select{
+    min-width: 150px;
+    height: 30px;;
+}
+strong{
+    font-family: 'Segoe UI Semibold' !important;    
+}
