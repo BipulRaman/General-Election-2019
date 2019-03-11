@@ -2,7 +2,7 @@
     <div class="alert alert-primary" role="alert">
         General Election 2019 Schedules and much more..
     </div>
-    <div class="mg-b-10" ng-If="Data">
+    <div class="mg-b-10">
         <div class="card">
             <div class="card-body bg-light">
 
@@ -10,7 +10,7 @@
                     <div class="row">
                         <div class="col">
                             <label for="State"><strong>Select State: </strong></label>
-                            <select id="State" ng-model="selectedState" ng-disabled="!Data"
+                            <select id="State" ng-model="selectedState"
                                 ng-options="selectState for (selectState, selectConstituency) in Data">
                             </select>
                         </div>
