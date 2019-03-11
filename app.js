@@ -34,14 +34,14 @@ MainAppControllers.controller('HomeCtrl', function ($scope, $http) {
     $scope.Links = [];
     getConstituencyData($http)
         .then(r => {
-            var states = [...new Set(r.data.map(item => item.State))];
-            var countryData = [];
-            states.forEach(function (element) {
-                countryData[element] = r.data.filter(item => item.State == element);
+            var LS_States = [...new Set(r.data.map(item => item.State))];
+            $scope.LS_State_Data = [];
+            LS_States.forEach(function (element){
+                var LS_State = [];
+                LS_State.State = element;
+                LS_State.Seats = r.data.filter(item => item.State == element);            
+                $scope.LS_State_Data.push(LS_State);                
             });
-            $scope.Data = countryData;
-
-            console.log($scope.Data);
 
             $scope.LS_Party_Data = [];
             var LS_Parties = [...new Set(r.data.map(item => item.Party_2014))];        
@@ -51,16 +51,6 @@ MainAppControllers.controller('HomeCtrl', function ($scope, $http) {
                 LS_Party.Seats = r.data.filter(item => item.Party_2014 == element);            
                 $scope.LS_Party_Data.push(LS_Party);                
             }); 
-
-            $scope.LS_State_Data = [];
-            states.forEach(function (element){
-                var LS_State = [];
-                LS_State.State = element;
-                LS_State.Seats = r.data.filter(item => item.State == element);            
-                $scope.LS_State_Data.push(LS_State);                
-            }); 
-            console.log($scope.LS_State_Data);           
-            
         })
         .catch(error => {
             console.log(error);
@@ -78,20 +68,20 @@ MainAppControllers.controller('HomeCtrl', function ($scope, $http) {
     $scope.stateSelect  = function (){
         $scope.StateData = [];
         $scope.StateData.Parties = [];
-        $scope.StateConstituenciesData = $scope.selectedState;
-        $scope.StateData.State = $scope.selectedState[0].State;
-        $scope.StateData.Total_Seat = $scope.StateConstituenciesData.length;
-        $scope.StateData.GEN_Seat = $scope.StateConstituenciesData.filter(item => item.Type == "GEN").length;
-        $scope.StateData.SC_Seat = $scope.StateConstituenciesData.filter(item => item.Type == "SC").length;
-        $scope.StateData.ST_Seat = $scope.StateConstituenciesData.filter(item => item.Type == "ST").length;
-        var parties = [...new Set($scope.StateConstituenciesData.map(item => item.Party_2014))];
+        $scope.StateConstituenciesData = $scope.LS_State_Data.filter(item => item.State == $scope.selectedState.State)[0];
+        $scope.StateData.State = $scope.selectedState.State;
+        $scope.StateData.Total_Seat = $scope.StateConstituenciesData.Seats.length;
+        $scope.StateData.GEN_Seat = $scope.StateConstituenciesData.Seats.filter(item => item.Type == "GEN").length;
+        $scope.StateData.SC_Seat = $scope.StateConstituenciesData.Seats.filter(item => item.Type == "SC").length;
+        $scope.StateData.ST_Seat = $scope.StateConstituenciesData.Seats.filter(item => item.Type == "ST").length;
+        var parties = [...new Set($scope.StateConstituenciesData.Seats.map(item => item.Party_2014))];
         
         parties.forEach(function (element){
             var party = [];
             party.Name = element;
-            party.Seats = $scope.StateConstituenciesData.filter(item => item.Party_2014 == element);            
+            party.Seats = $scope.StateConstituenciesData.Seats.filter(item => item.Party_2014 == element);            
             $scope.StateData.Parties.push(party);
-        });        
+        });    
     }
 
     // On Constituency Select Change

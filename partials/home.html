@@ -9,16 +9,16 @@
                 <div class="container form-group ">
                     <div class="row">
                         <div class="col">
-                            <label for="State"><strong>Select State: </strong></label>
-                            <select id="State" ng-model="selectedState" ng-change="stateSelect()"
-                                ng-options="selectState for (selectState, selectConstituency) in Data">
+                            <label for="selectState"><strong>Select State: </strong></label>
+                            <select id="selectState" ng-model="selectedState" ng-change="stateSelect()"
+                                ng-options="state.State for state in LS_State_Data">
                             </select>
                         </div>
                         <div class="col">
                             <label for="selectConstituency"><strong>Select Constituency: </strong></label>
-                            <select id="Constituency" ng-disabled="!selectedState" ng-model="selectedConstituency"
+                            <select id="selectConstituency" ng-disabled="!selectedState" ng-model="selectedConstituency"
                                 ng-change="constituencySelect()"
-                                ng-options="c.Constituency for c in selectedState | orderBy : 'Constituency'">
+                                ng-options="c.Constituency for c in selectedState.Seats | orderBy : 'Constituency'">
                             </select>
                         </div>
                     </div>
@@ -157,7 +157,7 @@
             </div>
         </div>
     </div>
-    <div class="alert alert-warning" role="alert" ng-If="!Data">
+    <div class="alert alert-warning" role="alert" ng-If="!LS_State_Data">
         Please wait while data is being fetch from server..
     </div>
 </div>
