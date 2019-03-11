@@ -47,7 +47,7 @@ MainAppControllers.controller('HomeCtrl', function ($scope, $http) {
             var LS_Parties = [...new Set(r.data.map(item => item.Party_2014))];        
             LS_Parties.forEach(function (element){
                 var LS_Party = [];
-                LS_Party.Name = element;
+                LS_Party.Party = element;
                 LS_Party.Seats = r.data.filter(item => item.Party_2014 == element);            
                 $scope.LS_Party_Data.push(LS_Party);                
             }); 
@@ -55,7 +55,7 @@ MainAppControllers.controller('HomeCtrl', function ($scope, $http) {
             $scope.LS_State_Data = [];
             states.forEach(function (element){
                 var LS_State = [];
-                LS_State.Name = element;
+                LS_State.State = element;
                 LS_State.Seats = r.data.filter(item => item.State == element);            
                 $scope.LS_State_Data.push(LS_State);                
             }); 
