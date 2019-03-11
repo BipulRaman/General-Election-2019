@@ -9,13 +9,13 @@
                 <div class="container form-group ">
                     <div class="row">
                         <div class="col">
-                            <label for="State"><strong><h6>Select State: </h6></strong></label>
+                            <label for="State"><strong>Select State: </strong></label>
                             <select id="State" ng-model="selectedState"
                                 ng-options="selectState for (selectState, selectConstituency) in Data">
                             </select>
                         </div>
                         <div class="col">
-                            <label for="selectConstituency"><strong><h6>Select Constituency: </h6></strong></label>
+                            <label for="selectConstituency"><strong>Select Constituency: </strong></label>
                             <select id="Constituency" ng-disabled="!selectedState" ng-model="selectedConstituency"
                                 ng-change="constituencySelect()" ng-options="c.Constituency for c in selectedState">
                             </select>

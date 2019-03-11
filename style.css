@@ -49,3 +49,6 @@ strong{
 ul, li, div, span, p {
     font-size: 11pt;
 }
+label > strong{
+    font-size: 12pt;
+}
