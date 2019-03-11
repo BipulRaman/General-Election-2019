@@ -1,11 +1,4 @@
-function getFormattedDate() {
-    var date = new Date();
-    var str = date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate() + "-" + date.getHours() + "-" + date.getMinutes() + "-" + date.getSeconds();
-    return str;
-}
-
-var xTime = getFormattedDate();
-
+// Defining AngularJS App
 var MainApp = angular.module('MainApp', [
     'ngRoute',
     'MainAppControllers',
@@ -36,9 +29,10 @@ MainAppControllers.controller('BodyCtrl', function ($scope, $http) {
 
 });
 
+// Controller for Home View
 MainAppControllers.controller('HomeCtrl', function ($scope, $http) {
     $scope.Links = [];
-    $http.get("data/eci.json?t="+ xTime)
+    getConstituencyData($http)
         .then(r => {
             var states = [...new Set(r.data.map(item => item.State))];
             var countryData = [];
@@ -51,7 +45,7 @@ MainAppControllers.controller('HomeCtrl', function ($scope, $http) {
             console.log(error);
         });
 
-    $http.get("data/schedule.json?t="+ xTime)
+    getElectionSchedule($http)
         .then(r => {
             $scope.Dates = r.data;
         })
@@ -59,13 +53,33 @@ MainAppControllers.controller('HomeCtrl', function ($scope, $http) {
             console.log(error);
         });
 
+    // On Constituency Select Change
     $scope.constituencySelect = function () {
         $scope.Schedule = $scope.Dates.filter(item => item.Schedule == $scope.selectedConstituency.Schedule)[0];
         console.log($scope.selectedConstituency);
         console.log($scope.Schedule);
         var selectedConstituency = $scope.selectedConstituency;
-        $scope.Links.MPProfile = encodeURI("http://myneta.info/search_myneta.php?q=" +selectedConstituency.MP_2014 + "+"+ selectedConstituency.Constituency );
-        $scope.Links.AllNeta =  encodeURI("http://myneta.info/search_myneta.php?q=" + selectedConstituency.Constituency );
+        $scope.Links.MPProfile = encodeURI("http://myneta.info/search_myneta.php?q=" + selectedConstituency.MP_2014 + "+" + selectedConstituency.Constituency);
+        $scope.Links.AllNeta = encodeURI("http://myneta.info/search_myneta.php?q=" + selectedConstituency.Constituency);
 
     }
 });
+
+// Function to get Formatted Date
+function getFormattedDate() {
+    var date = new Date();
+    var str = date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate() + "-" + date.getHours() + "-" + date.getMinutes() + "-" + date.getSeconds();
+    return str;
+}
+
+// Function to get LokSabha constituency details schedule
+function getConstituencyData($http) {
+    var xTime = getFormattedDate();
+    return $http.get("data/eci.json?t=" + xTime);
+}
+
+// Function to get election schedule
+function getElectionSchedule($http) {
+    var xTime = getFormattedDate();
+    return $http.get("data/schedule.json?t=" + xTime);
+}
