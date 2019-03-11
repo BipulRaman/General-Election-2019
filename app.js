@@ -53,15 +53,32 @@ MainAppControllers.controller('HomeCtrl', function ($scope, $http) {
             console.log(error);
         });
 
+    // On State Select
+    $scope.stateSelect  = function (){
+        $scope.StateData = [];
+        $scope.StateData.Parties = [];
+        $scope.StateConstituenciesData = $scope.selectedState;
+        $scope.StateData.State = $scope.selectedState[0].State;
+        $scope.StateData.Total_Seat = $scope.StateConstituenciesData.length;
+        $scope.StateData.GEN_Seat = $scope.StateConstituenciesData.filter(item => item.Type == "GEN").length;
+        $scope.StateData.SC_Seat = $scope.StateConstituenciesData.filter(item => item.Type == "SC").length;
+        $scope.StateData.ST_Seat = $scope.StateConstituenciesData.filter(item => item.Type == "ST").length;
+        var parties = [...new Set($scope.StateConstituenciesData.map(item => item.Party_2014))];
+        
+        parties.forEach(function (element){
+            var party = [];
+            party.Name = element;
+            party.Seats = $scope.StateConstituenciesData.filter(item => item.Party_2014 == element);            
+            $scope.StateData.Parties.push(party);
+        });        
+    }
+
     // On Constituency Select Change
     $scope.constituencySelect = function () {
         $scope.Schedule = $scope.Dates.filter(item => item.Schedule == $scope.selectedConstituency.Schedule)[0];
-        console.log($scope.selectedConstituency);
-        console.log($scope.Schedule);
         var selectedConstituency = $scope.selectedConstituency;
         $scope.Links.MPProfile = encodeURI("http://myneta.info/search_myneta.php?q=" + selectedConstituency.MP_2014 + "+" + selectedConstituency.Constituency);
         $scope.Links.AllNeta = encodeURI("http://myneta.info/search_myneta.php?q=" + selectedConstituency.Constituency);
-
     }
 });
 
