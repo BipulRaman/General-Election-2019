@@ -30,7 +30,8 @@ footer {
 }
 select{
     min-width: 200px;
-    height: 30px;;
+    height: 30px;
+    padding-bottom: 5px;
 }
 strong{
     font-family: 'Segoe UI Semibold' !important;    
