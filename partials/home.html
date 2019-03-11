@@ -10,7 +10,8 @@
                     <div class="row">
                         <div class="col">
                             <label for="State"><strong>Select State: </strong></label>
-                            <select id="State" ng-model="selectedState" ng-disabled="!Data" ng-options="selectState for (selectState, selectConstituency) in Data">
+                            <select id="State" ng-model="selectedState" ng-disabled="!Data"
+                                ng-options="selectState for (selectState, selectConstituency) in Data">
                             </select>
                         </div>
                         <div class="col">
@@ -57,7 +58,7 @@
                     <div class="col">
                         <ul class="list-group shadow-sm p-3 mb-5 bg-white rounded">
                             <li
-                                class="list-group-item d-flex justify-content-between align-items-center list-group-item-info">                                
+                                class="list-group-item d-flex justify-content-between align-items-center list-group-item-info">
                                 <strong>Loksabha Election 2019 Schedule</strong>
                             </li>
                             <li class="list-group-item d-flex justify-content-between align-items-center">
@@ -76,7 +77,8 @@
                                 <strong>{{Schedule.Last_Date_Withdrawal}} : </strong>Last date for withdrawal of
                                 Candidature
                             </li>
-                            <li class="list-group-item d-flex justify-content-between align-items-center list-group-item-warning">
+                            <li
+                                class="list-group-item d-flex justify-content-between align-items-center list-group-item-warning">
                                 <strong>{{Schedule.Poll}} : </strong>Date of Poll
                             </li>
                             <li class="list-group-item d-flex justify-content-between align-items-center">
@@ -90,5 +92,8 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="alert alert-warning" role="alert" ng-If="!Data">
+        Please wait while data is being fetch from server..
     </div>
 </div>
