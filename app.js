@@ -1,3 +1,11 @@
+function getFormattedDate() {
+    var date = new Date();
+    var str = date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate() + "-" + date.getHours() + "-" + date.getMinutes() + "-" + date.getSeconds();
+    return str;
+}
+
+var xTime = getFormattedDate();
+
 var MainApp = angular.module('MainApp', [
     'ngRoute',
     'MainAppControllers',
@@ -30,7 +38,7 @@ MainAppControllers.controller('BodyCtrl', function ($scope, $http) {
 
 MainAppControllers.controller('HomeCtrl', function ($scope, $http) {
     $scope.Links = [];
-    $http.get("data/eci.json")
+    $http.get("data/eci.json?t="+ xTime)
         .then(r => {
             var states = [...new Set(r.data.map(item => item.State))];
             var countryData = [];
@@ -43,7 +51,7 @@ MainAppControllers.controller('HomeCtrl', function ($scope, $http) {
             console.log(error);
         });
 
-    $http.get("data/schedule.json")
+    $http.get("data/schedule.json?t="+ xTime)
         .then(r => {
             $scope.Dates = r.data;
         })
