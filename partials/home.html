@@ -17,7 +17,8 @@
                         <div class="col">
                             <label for="selectConstituency"><strong>Select Constituency: </strong></label>
                             <select id="Constituency" ng-disabled="!selectedState" ng-model="selectedConstituency"
-                                ng-change="constituencySelect()" ng-options="c.Constituency for c in selectedState | orderBy : 'Constituency'">
+                                ng-change="constituencySelect()"
+                                ng-options="c.Constituency for c in selectedState | orderBy : 'Constituency'">
                             </select>
                         </div>
                     </div>
@@ -92,16 +93,17 @@
                 </div>
                 <hr ng-If="selectedConstituency" />
                 <div class="row" ng-If="StateData">
-                    
+
                     <div class="col">
                         <ul class="list-group shadow-sm p-3 mb-5 bg-white rounded">
                             <li
                                 class="list-group-item d-flex justify-content-between align-items-center list-group-item-info">
                                 <strong>{{StateData.State}} : Partywise Seat Share</strong>
                             </li>
-                            <li class="list-group-item d-flex justify-content-between align-items-center" ng-Repeat="party in StateData.Parties | orderBy: '-Seats.length'">
+                            <li class="list-group-item d-flex justify-content-between align-items-center"
+                                ng-Repeat="party in StateData.Parties | orderBy: '-Seats.length'">
                                 <strong>{{party.Name}} : </strong>{{party.Seats.length}}
-                            </li>                            
+                            </li>
                         </ul>
                     </div>
                     <div class="col">
@@ -121,6 +123,33 @@
                             </li>
                             <li class="list-group-item d-flex justify-content-between align-items-center">
                                 <strong>ST Seats Count : </strong>{{StateData.ST_Seat}}
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row" ng-If="LS_Party_Data">
+
+                    <div class="col">
+                        <ul class="list-group shadow-sm p-3 mb-5 bg-white rounded">
+                            <li
+                                class="list-group-item d-flex justify-content-between align-items-center list-group-item-info">
+                                <strong>India : Partywise Seat Share</strong>
+                            </li>
+                            <li class="list-group-item d-flex justify-content-between align-items-center"
+                                ng-Repeat="party in LS_Party_Data | orderBy: '-Seats.length'">
+                                <strong>{{party.Name}} : </strong>{{party.Seats.length}}
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul class="list-group shadow-sm p-3 mb-5 bg-white rounded">
+                            <li
+                                class="list-group-item d-flex justify-content-between align-items-center list-group-item-info">
+                                <strong>India : Statewise Seat Share</strong>
+                            </li>
+                            <li class="list-group-item d-flex justify-content-between align-items-center"
+                                ng-Repeat="state in LS_State_Data | orderBy: '-Seats.length'">
+                                <strong>{{state.Name}} : </strong>{{state.Seats.length}}
                             </li>
                         </ul>
                     </div>
