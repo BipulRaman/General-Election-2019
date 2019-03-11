@@ -35,3 +35,16 @@ select{
 strong{
     font-family: 'Segoe UI Semibold' !important;    
 }
+.mg-b-10{
+    margin-bottom: 10px;
+}
+.title-text{
+    color: purple;
+    font-family: 'Segoe UI Semibold' !important;  
+    text-decoration: none !important;
+    font-weight: bold;
+}
+
+ul, li, div, span, p {
+    font-size: 11pt;
+}
