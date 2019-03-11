@@ -17,7 +17,7 @@
                         <div class="col">
                             <label for="selectConstituency"><strong>Select Constituency: </strong></label>
                             <select id="Constituency" ng-disabled="!selectedState" ng-model="selectedConstituency"
-                                ng-change="constituencySelect()" ng-options="c.Constituency for c in selectedState">
+                                ng-change="constituencySelect()" ng-options="c.Constituency for c in selectedState | orderBy : 'Constituency'">
                             </select>
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                     </div>
                 </div>
                 <hr ng-If="selectedConstituency" />
-                <div class="row" ng-If="selectedState">
+                <div class="row" ng-If="StateData">
                     
                     <div class="col">
                         <ul class="list-group shadow-sm p-3 mb-5 bg-white rounded">
