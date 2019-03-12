@@ -1,8 +1,7 @@
 // Defining AngularJS App
 var MainApp = angular.module('MainApp', [
     'ngRoute',
-    'MainAppControllers',
-    'ngSanitize'
+    'MainAppControllers'
 ]);
 
 // Route Config
