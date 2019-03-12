@@ -109,5 +109,5 @@ function getConstituencyData($http) {
 // Function to get election schedule
 function getElectionSchedule($http) {
     var xTime = getFormattedDate();
-    return $http.get("data/schedule.json?t=" + xTime);
+    return $http.get("data/dates.json?t=" + xTime);
 }
