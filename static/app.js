@@ -102,11 +102,11 @@ function getFormattedDate() {
 // Function to get LokSabha constituency details schedule
 function getConstituencyData($http) {
     var xTime = getFormattedDate();
-    return $http.get("data/eci.json?t=" + xTime);
+    return $http.get("../data/eci.json?t=" + xTime);
 }
 
 // Function to get election schedule
 function getElectionSchedule($http) {
     var xTime = getFormattedDate();
-    return $http.get("data/dates.json?t=" + xTime);
+    return $http.get("../data/dates.json?t=" + xTime);
 }
