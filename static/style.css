@@ -45,3 +45,7 @@ ul, li, div, span, p {
 label > strong{
     font-size: 12pt;
 }
+
+.col{
+    margin-bottom: 5px;
+}
