@@ -54,4 +54,8 @@ label > strong{
     .col{
         margin-bottom: 5px; min-width: 100%;    
     }
+
+    .col > label {
+        min-width: 100%;
+    }
   }
