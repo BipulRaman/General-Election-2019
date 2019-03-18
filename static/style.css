@@ -47,5 +47,11 @@ label > strong{
 }
 
 .col{
-    margin-bottom: 5px; width: 100%;
+    margin-bottom: 5px;   
 }
+
+@media only screen and (max-width: 600px) {
+    .col{
+        margin-bottom: 5px; min-width: 100%;    
+    }
+  }
