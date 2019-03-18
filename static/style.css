@@ -47,5 +47,5 @@ label > strong{
 }
 
 .col{
-    margin-bottom: 5px;
+    margin-bottom: 5px; width: 100%;
 }
